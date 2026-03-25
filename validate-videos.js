@@ -230,7 +230,10 @@ function isValidVideoId(id) {
 }
 
 async function validateYouTubeUrl(url) {
-  return validateYouTubeUrlWithOptions(url, { includePublishDate: false });
+  return validateYouTubeUrlWithOptions(url, {
+    includePublishDate: false,
+    checkAgeRestricted: true,
+  });
 }
 
 async function validateYouTubeUrlWithOptions(url, options) {
@@ -244,14 +247,23 @@ async function validateYouTubeUrlWithOptions(url, options) {
   if (!response.ok) return { ok: false, reason: `oembed-${response.status}` };
   const data = await safeJson(response);
 
+  const checkAgeRestricted = !options || options.checkAgeRestricted !== false;
+
   const needsMetadata =
     options &&
     (options.includePublishDate ||
       options.includeViewCount ||
       options.includeLikes);
-  const metadata = needsMetadata
-    ? await getWatchMetadata(id, watchUrl)
-    : { publishDate: null, viewCount: null, likeCount: null };
+  const metadata =
+    checkAgeRestricted || needsMetadata
+      ? await getWatchMetadata(id, watchUrl)
+      : {
+          publishDate: null,
+          viewCount: null,
+          likeCount: null,
+          ageRestricted: false,
+        };
+  if (metadata.ageRestricted) return { ok: false, reason: "age-restricted" };
   const publishDate =
     options && options.includePublishDate ? metadata.publishDate : null;
   const viewCount =
@@ -283,10 +295,21 @@ async function getWatchMetadata(id, watchUrl) {
 async function fetchWatchMetadata(watchUrl) {
   const response = await fetchWithTimeout(watchUrl);
   if (!response.ok)
-    return { publishDate: null, viewCount: null, likeCount: null };
+    return {
+      publishDate: null,
+      viewCount: null,
+      likeCount: null,
+      ageRestricted: false,
+    };
 
   const html = await response.text();
-  if (!html) return { publishDate: null, viewCount: null, likeCount: null };
+  if (!html)
+    return {
+      publishDate: null,
+      viewCount: null,
+      likeCount: null,
+      ageRestricted: false,
+    };
 
   const publishDate =
     extractPublishDateFromLdJson(html) ||
@@ -298,8 +321,9 @@ async function fetchWatchMetadata(watchUrl) {
     null;
   const likeCount =
     extractLikesFromLdJson(html) ?? extractLikesFromVideoDetails(html) ?? null;
+  const ageRestricted = isAgeRestrictedHtml(html);
 
-  return { publishDate, viewCount, likeCount };
+  return { publishDate, viewCount, likeCount, ageRestricted };
 }
 
 async function findReplacement(entry) {
@@ -330,7 +354,10 @@ async function findReplacement(entry) {
     uniqueCandidates,
     VALIDATION_CONCURRENCY,
     async (candidate) => {
-      const valid = await validateYouTubeUrl(candidate.url);
+      const valid = await validateYouTubeUrlWithOptions(candidate.url, {
+        includePublishDate: false,
+        checkAgeRestricted: false,
+      });
       if (!valid.ok) return null;
       const candNorm = normalizeText(valid.title || "");
       const textScore = computeTextScore(originalNorm, candNorm);
@@ -351,6 +378,7 @@ async function findReplacement(entry) {
     async (c) => {
       const watchUrl = `https://www.youtube.com/watch?v=${c.id}`;
       const meta = await getWatchMetadata(c.id, watchUrl);
+      if (meta.ageRestricted) return null;
       const score = similarityScore(
         originalNorm,
         c.title,
@@ -363,8 +391,11 @@ async function findReplacement(entry) {
     },
   );
 
-  scored.sort((a, b) => b.score - a.score);
-  const best = scored[0];
+  const scoredCandidates = scored.filter(Boolean);
+  if (!scoredCandidates.length) return null;
+
+  scoredCandidates.sort((a, b) => b.score - a.score);
+  const best = scoredCandidates[0];
   return best && best.score >= 0.5 ? best : null;
 }
 
@@ -671,6 +702,16 @@ function extractLikesFromVideoDetails(html) {
   if (!m) return null;
   const parsed = Number(m[1]);
   return Number.isFinite(parsed) ? parsed : null;
+}
+
+function isAgeRestrictedHtml(html) {
+  return (
+    /og:restrictions:age/i.test(html) ||
+    /"isAgeRestricted"\s*:\s*true/i.test(html) ||
+    /playerAgeGateContent/i.test(html) ||
+    /age[_-]?verification/i.test(html) ||
+    /AGE_VERIFICATION_REQUIRED/i.test(html)
+  );
 }
 
 async function safeJson(response) {
