@@ -4,12 +4,10 @@
   ✅ болести: 10
   ✅ за душата: 10
   ⚠️  oEmbed throttled/rejected (401) for WbQbKx0zfM8, using watch fallback
-  ⚠️  Retry 1/4 for watch:WbQbKx0zfM8 (HTTP 429), waiting 821ms
-  ⚠️  Retry 2/4 for watch:WbQbKx0zfM8 (HTTP 429), waiting 1627ms
-  ⚠️  Retry 3/4 for watch:WbQbKx0zfM8 (HTTP 429), waiting 3468ms
   ✅ pop culture: 10
   ✅ pop folk: 10
   ✅ бедствия: 10
+  ⚠️  oEmbed throttled/rejected (401) for l7aRQj1CqUA, using watch fallback
   ✅ бесни: 10
   ✅ мода: 10
   ✅ работа: 10
@@ -18,13 +16,7 @@
   ✅ животни: 10
   ✅ храна: 10
   ⚠️  oEmbed throttled/rejected (401) for 9n5KGRnjoTo, using watch fallback
-  ⚠️  Retry 1/4 for watch:9n5KGRnjoTo (HTTP 429), waiting 896ms
-  ⚠️  Retry 2/4 for watch:9n5KGRnjoTo (HTTP 429), waiting 1703ms
-  ⚠️  Retry 3/4 for watch:9n5KGRnjoTo (HTTP 429), waiting 3547ms
   ⚠️  oEmbed throttled/rejected (401) for pfqnbOu0-QM, using watch fallback
-  ⚠️  Retry 1/4 for watch:pfqnbOu0-QM (HTTP 429), waiting 1124ms
-  ⚠️  Retry 2/4 for watch:pfqnbOu0-QM (HTTP 429), waiting 1721ms
-  ⚠️  Retry 3/4 for watch:pfqnbOu0-QM (HTTP 429), waiting 3322ms
   ✅ мазно: 10
   ✅ коли: 10
   ✅ коли и жени: 10
@@ -32,713 +24,696 @@
   ✅ талант: 10
   ✅ класическа музика: 10
   ⚠️  oEmbed throttled/rejected (401) for HTCfUTMjxgY, using watch fallback
-  ⚠️  Retry 1/4 for watch:HTCfUTMjxgY (HTTP 429), waiting 879ms
-  ⚠️  Retry 2/4 for watch:HTCfUTMjxgY (HTTP 429), waiting 1925ms
-  ⚠️  Retry 3/4 for watch:HTCfUTMjxgY (HTTP 429), waiting 3272ms
   ⚠️  oEmbed throttled/rejected (401) for 5wStguobj2g, using watch fallback
-  ⚠️  Retry 1/4 for watch:5wStguobj2g (HTTP 429), waiting 1136ms
-  ⚠️  Retry 2/4 for watch:5wStguobj2g (HTTP 429), waiting 1982ms
-  ⚠️  Retry 3/4 for watch:5wStguobj2g (HTTP 429), waiting 3485ms
   ✅ далавера: 10
-  ⚠️  Retry 1/4 for search:saint tropez tallava (HTTP 429), waiting 913ms
-  ⚠️  Retry 2/4 for search:saint tropez tallava (HTTP 429), waiting 1711ms
-  ⚠️  Retry 3/4 for search:saint tropez tallava (HTTP 429), waiting 3459ms
-  ⚠️  oEmbed throttled/rejected (401) for tXO2QtjixaM, using watch fallback
-  ⚠️  Retry 1/4 for watch:tXO2QtjixaM (HTTP 429), waiting 962ms
-  ⚠️  Retry 2/4 for watch:tXO2QtjixaM (HTTP 429), waiting 1642ms
-  ⚠️  Retry 3/4 for watch:tXO2QtjixaM (HTTP 429), waiting 3308ms
-  ⚠️  oEmbed throttled/rejected (401) for 9i-hemV2hF0, using watch fallback
-  ⚠️  Retry 1/4 for watch:9i-hemV2hF0 (HTTP 429), waiting 810ms
-  ⚠️  Retry 2/4 for watch:9i-hemV2hF0 (HTTP 429), waiting 1892ms
-  ⚠️  Retry 3/4 for watch:9i-hemV2hF0 (HTTP 429), waiting 3312ms
+  ⚠️  Retry 1/4 for search:saint tropez tallava (HTTP 429), waiting 914ms
+  ⚠️  Retry 2/4 for search:saint tropez tallava (HTTP 429), waiting 1939ms
+  ⚠️  Retry 3/4 for search:saint tropez tallava (HTTP 429), waiting 3536ms
   ✅ сен тропe: 10
-  ✅ молитва: 10
+  ✅ молитва: 6
   ✅ wanderlust: 10
   ✅ мебели: 10
 
-📛 Building "иманни дни" (1 song per name)...
-  Processing: Георги...                      Processing: Димитър...                      Processing: Иван...                      Processing: Николай...                      Processing: Петър...                      ⚠️  Retry 1/4 for search:Петър кючек (HTTP 429), waiting 822ms
-  ⚠️  Retry 2/4 for search:Петър кючек (HTTP 429), waiting 1792ms
-  ⚠️  Retry 3/4 for search:Петър кючек (HTTP 429), waiting 3413ms
-  Processing: Христо...                      Processing: Александър...                      Processing: Стефан...                      Processing: Йордан...                      ⚠️  Retry 1/4 for search:Йордан кючек (HTTP 429), waiting 954ms
-  ⚠️  Retry 2/4 for search:Йордан кючек (HTTP 429), waiting 1657ms
-  ⚠️  Retry 3/4 for search:Йордан кючек (HTTP 429), waiting 3548ms
-  Processing: Тодор...                      Processing: Васил...                      Processing: Атанас...                      Processing: Борис...                      ⚠️  Retry 1/4 for search:Борис кючек (HTTP 429), waiting 1120ms
-  ⚠️  Retry 2/4 for search:Борис кючек (HTTP 429), waiting 1979ms
-  ⚠️  Retry 3/4 for search:Борис кючек (HTTP 429), waiting 3362ms
-  Processing: Калоян...                      Processing: Красимир...                      Processing: Любомир...                      Processing: Мартин...                      ⚠️  Retry 1/4 for search:Мартин кючек (HTTP 429), waiting 981ms
-  ⚠️  Retry 2/4 for search:Мартин кючек (HTTP 429), waiting 1610ms
-  ⚠️  Retry 3/4 for search:Мартин кючек (HTTP 429), waiting 3479ms
-  Processing: Даниел...                      Processing: Виктор...                      Processing: Пламен...                      Processing: Илия...                      ⚠️  Retry 1/4 for search:Илия кючек (HTTP 429), waiting 851ms
-  ⚠️  Retry 2/4 for search:Илия кючек (HTTP 429), waiting 1725ms
-  ⚠️  Retry 3/4 for search:Илия кючек (HTTP 429), waiting 3288ms
-  Processing: Ангел...                      Processing: Камен...                      Processing: Павел...                      Processing: Емил...                      ⚠️  Retry 1/4 for search:Емил кючек (HTTP 429), waiting 1012ms
-  ⚠️  Retry 2/4 for search:Емил кючек (HTTP 429), waiting 1656ms
-  ⚠️  Retry 3/4 for search:Емил кючек (HTTP 429), waiting 3308ms
-  ⚠️  Search failed for "Емил кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Емил кючек (HTTP 429), waiting 983ms
-  ⚠️  Retry 2/4 for search:имен ден Емил кючек (HTTP 429), waiting 1688ms
-  ⚠️  Retry 3/4 for search:имен ден Емил кючек (HTTP 429), waiting 3425ms
-  ⚠️  Search failed for "имен ден Емил кючек" (HTTP 429)
-  Processing: Румен...                      ⚠️  Retry 1/4 for search:Румен кючек (HTTP 429), waiting 1078ms
-  ⚠️  Retry 2/4 for search:Румен кючек (HTTP 429), waiting 1999ms
-  ⚠️  Retry 3/4 for search:Румен кючек (HTTP 429), waiting 3229ms
-  ⚠️  Search failed for "Румен кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Румен кючек (HTTP 429), waiting 1182ms
-  ⚠️  Retry 2/4 for search:имен ден Румен кючек (HTTP 429), waiting 1978ms
-  ⚠️  Retry 3/4 for search:имен ден Румен кючек (HT  Processing: Вале�  ⚠️  Search failed for "�  Processing: Костадин...                      ⚠️  Retry 1/4 for search:Костадин кючек (HTTP 429), waiting 802ms
-  ⚠️  Retry 2/4 for search:Костадин кючек (HTTP 429), waiting 1910ms
-  ⚠️  Retry 3/4 for search:Костадин кючек (HTTP 429), waiting 3487ms
-  Processing: Добромир...                      Processing: Мария...                      Processing: Елена...                      Processing: Иванка...                      ⚠️  Retry 1/4 for search:Иванка кючек (HTTP 429), waiting 914ms
-  ⚠️  Retry 2/4 for search:Иванка кючек (HTTP 429), waiting 1624ms
-  ⚠️  Retry 3/4 for search:Иванка кючек (HTTP 429), waiting 3323ms
-  ⚠️  Search failed for "Иванка кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Иванка кючек (HTTP 429), waiting 1133ms
-  ⚠️  Retry 2/4 for search:имен ден Иванка кючек (HTTP 429), waiting 1859ms
-  ⚠️  Retry 3/4 for search:имен ден Иванка кючек (HTTP 429), waiting 3210ms
-  ⚠️  Search failed for "имен ден Иванка кючек" (HTTP 429)
-  Processing: Йорданка...                      ⚠️  Retry 1/4 for search:Йорданка кючек (HTTP 429), waiting 965ms
-  ⚠️  Retry 2/4 for search:Йорданка кючек (HTTP 429), waiting 1663ms
-  ⚠️  Retry 3/4 for search:Йорданка кючек (HTTP 429), waiting 3202ms
-  ⚠️  Search failed for "Йорданка кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Йорданка кючек (HTTP 429), waiting 901ms
-  ⚠️  Retry 2/4 for search:имен ден Йорданка кючек (HTTP 429), waiting 1712ms
-  ⚠️  Retry 3/4 for search:имен ден Йорданка кючек (HTTP 429), waiting 3288ms
-  ⚠️  Search failed for "имен ден Йорданка кючек" (HTTP 429)
-  Processing: Гергана...                      ⚠️  Retry 1/4 for search:Гергана кючек (HTTP 429), waiting 970ms
-  ⚠️  Retry 2/4 for search:Гергана кючек (HTTP 429), waiting 1773ms
-  ⚠️  Retry 3/4 for search:Гергана кючек (HTTP 429), waiting 3517ms
-  ⚠️  Search failed for "Гергана кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Гергана кючек (HTTP 429), waiting 1020ms
-  ⚠️  Retry 2/4 for search:имен ден Гергана кючек (HTTP 429), waiting 1917ms
-  ⚠️  Retry 3/4 for search:имен ден Гергана кючек (HTTP 429), w  Processing:  ⚠️  Search failed for "имен ден Гергана кючек" (HTTP 429)
-  Processing: Десислава...               Processing: Йорданка...                      ⚠️  Retry 1/4 for search:Йорданка кючек (HTTP 429), waiting 1196ms
-  ⚠️  Retry 2/4 for search:Йорда�  ⚠️  Retry 3/4 for search:Десисл�  ⚠️  Retry 3/4 for search:Йордан�  ⚠️  Search failed for "Десисл�  Processing: Гергана...                      Processing: Десислава...                      Processing: Теодора...                      Processing: Петя...                      ⚠️  Retry 1/4 for search:Петя кючек (HTTP 429), waiting 973ms
-  ⚠️  Retry 2/4 for search:Петя кючек (HTTP 429), waiting 1843ms
-  ⚠️  Retry 3/4 for search:Петя кючек (HTTP 429), waiting 3343ms
-  ⚠️  Search failed for "Петя кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Петя кючек (HTTP 429), waiting 873ms
-  ⚠️  Retry 2/4 for search:имен ден Петя кючек (HTTP 429), waiting 1631ms
-  ⚠️  Retry 3/4 for search:имен ден Петя кючек (HTTP 429), waiting 3342ms
-  ⚠️  Search failed for "имен ден Петя кючек" (HTTP 429)
-  Processing: Антония...                      ⚠️  Retry 1/4 for search:Антония кючек (HTTP 429), waiting 1094ms
-  ⚠️  Retry 2/4 for search:Антония кючек (HTTP 429), waiting 1719ms
-  ⚠️  Retry 3/4 for search:Антония кючек (HTTP 429), waiting 3388ms
-  ⚠️  Search failed for "Антония кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Антония кючек (HTTP 429), waiting 903ms
-  ⚠️  Retry 2/4 for search:имен ден Антония кючек (HTTP 429), waiting 1958ms
-  ⚠️  Retry 3/4 for search:имен ден Антония кючек (HTTP 429), waiting 3205ms
-  ⚠️  Search failed for "имен ден Антония кючек" (HTTP 429)
-  Processing: Виктория...                      ⚠️  Retry 1/4 for search:Виктория кючек (HTTP 429), waiting 867ms
-  ⚠️  Retry 2/4 for search:Виктория кючек (HTTP 429), waiting 1862ms
-  Processing: Габриела...                      ⚠️  Retry 1/4 for search:Габриела кючек (HTTP 429), waiting 1010ms
-  ⚠️  Retry 2/4 for search:Габриела кючек (HTTP 429), waiting 1887ms
-  ⚠️  Retry 3/4 for search:Габриела кючек (HTTP 429), waiting 3382ms
-  ⚠️  Search failed for "Габриела кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Габриела кючек (HTTP 429), waiting 986ms
-  ⚠️  Retry 2/4 for search:имен ден Габриела кючек (HTTP 429), waiting 1636ms
-  ⚠️  Retry 3/4 for search:имен ден Габриела кючек (HTTP 429), waiting 3534ms
-  ⚠️  Search failed for "имен ден Габриела кючек" (HTTP 429)
-  Processing: Никол...                      ⚠️  Retry 1/4 for search:Никол кючек (HTTP 429), waiting 1058ms
-  ⚠️  Retry 2/4 for search:Никол кючек (HTTP 429), waiting 1977ms
-  ⚠️  Retry 3/4 for search:Никол кючек (HTTP 429), waiting 3313ms
-  ⚠️  Search failed for "Никол кючек" (HTTP 429)
-  ⚠️  Retry 1/4 for search:имен ден Никол кючек (HTTP 429), waiting 928ms
-  Processing: Стефка...                      ⚠️  Retry 1/4 for search:Стефка кючек (HTTP 429), waiting 1183ms
-  ⚠️  Retry 2/4 for search:Стефка кючек (HTTP 429), waiting 1917ms
-  ⚠️  Retry 3/4 for search:Стефка кючек (HTTP 429), waiting 3308ms
-  Processing: Румяна...                      Processing: Виолета...                      Processing: Цветелина...                      Processing: Цветана...                      ⚠️  Retry 1/4 for search:Цветана кючек (HTTP 429), waiting 1163ms
-  ⚠️  Retry 2/4 for search:Цветана кючек (HTTP 429), waiting 1900ms
-  ⚠️  Retry 3/4 for search:Цветана кючек (HTTP 429), waiting 3261ms
-  Processing: Росица...                      Processing: Радка...                      Processing: Зорница...                      Processing: Лилия...                      Processing: Надежда...                      ⚠️  Retry 1/4 for search:Надежда кючек (HTTP 429), waiting 1133ms
-  ⚠️  Retry 2/4 for search:Надежда кючек (HTTP 429), waiting 1840ms
-  ⚠️  Retry 3/4 for search:Надежда кючек (HTTP 429), waiting 3568ms
-  Processing: Любов...                      Processing: Вяра...                      Processing: Надя...                      Processing: Татяна...                      ⚠️  Retry 1/4 for search:Татяна кючек (HTTP 429), waiting 1082ms
-  ⚠️  Retry 2/4 for search:Татяна кючек (HTTP 429), waiting 1724ms
-  ⚠️  Retry 3/4 for search:Татяна кючек (HTTP 429), waiting 3490ms
-  Processing: Даниела...                      Processing: Силвия...                      Processing: Милена...                      Processing: Кристина...                      ⚠️  Retry 1/4 for search:Кристина кючек (HTTP 429), waiting 1062ms
-  ⚠️  Retry 2/4 for search:Кристина кючек (HTTP 429), waiting 1857ms
-  ⚠️  Retry 3/4 for search:Кристина кючек (HTTP 429), waiting 3220ms
+📛 Building "имен ден" (1 song per name)...
+  Processing: Георги...                      Processing: Димитър...                      Processing: Иван...                      Processing: Николай...                      Processing: Петър...                      ⚠️  Retry 1/4 for search:Петър кючек (HTTP 429), waiting 1191ms
+  ⚠️  Retry 2/4 for search:Петър кючек (HTTP 429), waiting 1988ms
+  ⚠️  Retry 3/4 for search:Петър кючек (HTTP 429), waiting 3249ms
+  Processing: Христо...                      Processing: Александър...                      Processing: Стефан...                      Processing: Йордан...                      ⚠️  Retry 1/4 for search:Йордан кючек (HTTP 429), waiting 1182ms
+  ⚠️  Retry 2/4 for search:Йордан кючек (HTTP 429), waiting 1841ms
+  ⚠️  Retry 3/4 for search:Йордан кючек (HTTP 429), waiting 3259ms
+  Processing: Тодор...                      Processing: Васил...                      Processing: Атанас...                      Processing: Борис...                      ⚠️  Retry 1/4 for search:Борис кючек (HTTP 429), waiting 1173ms
+  ⚠️  Retry 2/4 for search:Борис кючек (HTTP 429), waiting 1875ms
+  ⚠️  Retry 3/4 for search:Борис кючек (HTTP 429), waiting 3536ms
+  Processing: Калоян...                      Processing: Красимир...                      Processing: Любомир...                      Processing: Мартин...                      ⚠️  Retry 1/4 for search:Мартин кючек (HTTP 429), waiting 1062ms
+  ⚠️  Retry 2/4 for search:Мартин кючек (HTTP 429), waiting 1601ms
+  ⚠️  Retry 3/4 for search:Мартин кючек (HTTP 429), waiting 3387ms
+  Processing: Даниел...                      ⚠️  Retry 1/4 for search:Даниел кючек (HTTP 429), waiting 1059ms
+  Processing: Виктор...                      ⚠️  Retry 1/4 for search:Виктор кючек (HTTP 429), waiting 838ms
+  ⚠️  Retry 2/4 for search:Виктор кючек (HTTP 429), waiting 1979ms
+  ⚠️  Retry 3/4 for search:Виктор кючек (HTTP 429), waiting 3461ms
+  Processing: Пламен...                      Processing: Илия...                      Processing: Ангел...                      Processing: Камен...                      ⚠️  Retry 1/4 for search:Камен кючек (HTTP 429), waiting 1068ms
+  ⚠️  Retry 2/4 for search:Камен кючек (HTTP 429), waiting 1708ms
+  ⚠️  Retry 3/4 for search:Камен кючек (HTTP 429), waiting 3307ms
+  ⚠️  Search failed for "Камен кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Камен кючек (HTTP 429), waiting 807ms
+  ⚠️  Retry 2/4 for search:имен ден Камен кючек (HTTP 429), waiting 1784ms
+  ⚠️  Retry 3/4 for search:имен ден Камен кючек (HTTP 429), waiting 3223ms
+  ⚠️  Search failed for "имен ден Камен кючек" (HTTP 429)
+  Processing: Павел...                      ⚠️  Retry 1/4 for search:Павел кючек (HTTP 429), waiting 1061ms
+  ⚠️  Retry 2/4 for search:Павел кючек (HTTP 429), waiting 1712ms
+  ⚠️  Retry 3/4 for search:Павел кючек (HTTP 429), waiting 3257ms
+  ⚠️  Search failed for "Павел кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Павел кючек (HTTP 429), waiting 1077ms
+  ⚠️  Retry 2/4 for search:имен ден Павел кючек (HTTP 429), waiting 1868ms
+  ⚠️  Retry 3/4 for search:имен ден Павел кючек (HTTP 429), waiting 3530ms
+  Processing: Емил...                      Processing: Румен...                      Processing: Теодор...                      Processing: Валентин...                      ⚠️  Retry 1/4 for search:Валентин кючек (HTTP 429), waiting 1196ms
+  ⚠️  Retry 2/4 for search:Валентин кючек (HTTP 429), waiting 1641ms
+  ⚠️  Retry 3/4 for search:Валентин кючек (HTTP 429), waiting 3399ms
+  Processing: Костадин...                      Processing: Добромир...                      Processing: Мария...                      Processing: Елена...                      ⚠️  Retry 1/4 for search:Елена кючек (HTTP 429), waiting 1138ms
+  ⚠️  Retry 2/4 for search:Елена кючек (HTTP 429), waiting 1798ms
+  ⚠️  Retry 3/4 for search:Елена кючек (HTTP 429), waiting 3321ms
+  Processing: Иванка...                      Processing: Йорданка...                      Processing: Гергана...                      Processing: Десислава...                      ⚠️  Retry 1/4 for search:Десислава кючек (HTTP 429), waiting 877ms
+  ⚠️  Retry 2/4 for search:Десислава кючек (HTTP 429), waiting 1672ms
+  ⚠️  Retry 3/4 for search:Десислава кючек (HTTP 429), waiting 3571ms
+  Processing: Теодора...                      ⚠️  Retry 1/4 for search:Теодора кючек (HTTP 429), waiting 847ms
+  Processing: Петя...                      ⚠️  Retry 1/4 for search:Петя кючек (HTTP 429), waiting 1183ms
+  ⚠️  Retry 2/4 for search:Петя кючек (HTTP 429), waiting 1757ms
+  ⚠️  Retry 3/4 for search:Петя кючек (HTTP 429), waiting 3414ms
+  Processing: Антония...                      Processing: Виктория...                      Processing: Габриела...                      Processing: Никол...                      ⚠️  Retry 1/4 for search:Никол кючек (HTTP 429), waiting 1112ms
+  ⚠️  Retry 2/4 for search:Никол кючек (HTTP 429), waiting 1841ms
+  ⚠️  Retry 3/4 for search:Никол кючек (HTTP 429), waiting 3275ms
+  Processing: Стефка...                      Processing: Румяна...                      ⚠️  Retry 1/4 for search:Румяна кючек (HTTP 429), waiting 894ms
+  ⚠️  Retry 2/4 for search:Румяна кючек (HTTP 429), waiting 1829ms
+  ⚠️  Retry 3/4 for search:Румяна кючек (HTTP 429), waiting 3264ms
+  ⚠️  Search failed for "Румяна кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Румяна кючек (HTTP 429), waiting 1146ms
+  ⚠️  Retry 2/4 for search:имен ден Румяна кючек (HTTP 429), waiting 1619ms
+  ⚠️  Retry 3/4 for search:имен ден Румяна кючек (HTTP 429), waiting 3596ms
+  ⚠️  Search failed for "имен ден Румяна кючек" (HTTP 429)
+  Processing: Виолета...                      ⚠️  Retry 1/4 for search:Виолета кючек (HTTP 429), waiting 1055ms
+  Processing: Цветелина...                      ⚠️  Retry 1/4 for search:Цветелина кючек (HTTP 429), waiting 994ms
+  ⚠️  Retry 2/4 for search:Цветелина кючек (HTTP 429), waiting 1821ms
+  ⚠️  Retry 3/4 for search:Цветелина кючек (HTTP 429), waiting 3427ms
+  Processing: Цветана...                      Processing: Росица...                      Processing: Радка...                      ⚠️  Retry 1/4 for search:Радка кючек (HTTP 429), waiting 1154ms
+  ⚠️  Retry 2/4 for search:Радка кючек (HTTP 429), waiting 1849ms
+  ⚠️  Retry 3/4 for search:Радка кючек (HTTP 429), waiting 3326ms
+  Processing: Зорница...                      Processing: Лилия...                      Processing: Надежда...                      Processing: Любов...                      ⚠️  Retry 1/4 for search:Любов кючек (HTTP 429), waiting 898ms
+  ⚠️  Retry 2/4 for search:Любов кючек (HTTP 429), waiting 1745ms
+  ⚠️  Retry 3/4 for search:Любов кючек (HTTP 429), waiting 3254ms
+  ⚠️  Search failed for "Любов кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Любов кючек (HTTP 429), waiting 1126ms
+  ⚠️  Retry 2/4 for search:имен ден Любов кючек (HTTP 429), waiting 1676ms
+  ⚠️  Retry 3/4 for search:имен ден Любов кючек (HTTP 429), waiting 3349ms
+  ⚠️  Search failed for "имен ден Любов кючек" (HTTP 429)
+  Processing: Вяра...                      ⚠️  Retry 1/4 for search:Вяра кючек (HTTP 429), waiting 1055ms
+  ⚠️  Retry 2/4 for search:Вяра кючек (HTTP 429), waiting 1735ms
+  ⚠️  Retry 3/4 for search:Вяра кючек (HTTP 429), waiting 3405ms
+  ⚠️  Search failed for "Вяра кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Вяра кючек (HTTP 429), waiting 1182ms
+  ⚠️  Retry 2/4 for search:имен ден Вяра кючек (HTTP 429), waiting 1711ms
+  ⚠️  Retry 3/4 for search:имен ден Вяра кючек (HTTP 429), waiting 3485ms
+  ⚠️  Search failed for "имен ден Вяра кючек" (HTTP 429)
+  Processing: Надя...                      ⚠️  Retry 1/4 for search:Надя кючек (HTTP 429), waiting 994ms
+  ⚠️  Retry 2/4 for search:Надя кючек (HTTP 429), waiting 1935ms
+  ⚠️  Retry 3/4 for search:Надя кючек (HTTP 429), waiting 3295ms
+  ⚠️  Search failed for "Надя кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Надя кючек (HTTP 429), waiting 1085ms
+  ⚠️  Retry 2/4 for search:имен ден Надя кючек (HTTP 429), waiting 1651ms
+  ⚠️  Retry 3/4 for search:имен ден Надя кючек (HTTP 429), waiting 3483ms
+  ⚠️  Search failed for "имен ден Надя кючек" (HTTP 429)
+  Processing: Татяна...                      Processing: Даниела...                      Processing: Силвия...                      ⚠️  Retry 1/4 for search:Силвия кючек (HTTP 429), waiting 947ms
+  ⚠️  Retry 2/4 for search:Силвия кючек (HTTP 429), waiting 1643ms
+  ⚠️  Retry 3/4 for search:Силвия кючек (HTTP 429), waiting 3599ms
+  ⚠️  Search failed for "Силвия кючек" (HTTP 429)
+  ⚠️  Retry 1/4 for search:имен ден Силвия кючек (HTTP 429), waiting 876ms
+  ⚠️  Retry 2/4 for search:имен ден Силвия кючек (HTTP 429), waiting 1731ms
+  ⚠️  Retry 3/4 for search:имен ден Силвия кючек (HTTP 429), waiting 3244ms
+  Processing: Милена...                      Processing: Кристина...                    
+  ✅ Added 55/60 names
 
-  ✅ Added 53/60 names
-
-🎂 Building "рожденни дни"...
-  ⚠️  Retry 1/4 for search:birthday kuchek (HTTP 429), waiting 999ms
-  ⚠️  Retry 2/4 for search:birthday kuchek (HTTP 429), waiting 1792ms
-  ⚠️  Retry 3/4 for search:birthday kuchek (HTTP 429), waiting 3471ms
-  ⚠️  Search failed for "birthday kuchek" (HTTP 429)
-  ⚠️  Retry 1/4 for search:happy birthday manele (HTTP 429), waiting 1041ms
-  ⚠️  Retry 2/4 for search:happy birthday manele (HTTP 429), waiting 1773ms
-  ⚠️  Retry 3/4 for search:happy birthday manele (HTTP 429), waiting 3379ms
-  ⚠️  Search failed for "happy birthday manele" (HTTP 429)
-  ⚠️  Retry 1/4 for search:парти кючек (HTTP 429), waiting 949ms
-  ⚠️  Retry 2/4 for search:парти кючек (HTTP 429), waiting 1723ms
-  ⚠️  Retry 3/4 for search:парти кючек (HTTP 429), waiting 3570ms
-  ⚠️  Search failed for "парти кючек" (HTTP 429)
-  ⚠️  oEmbed throttled/rejected (401) for l7aRQj1CqUA, using watch fallback
-  ⚠️  Retry 1/4 for watch:l7aRQj1CqUA (HTTP 429), waiting 839ms
-  ⚠️  Retry 2/4 for watch:l7aRQj1CqUA (HTTP 429), waiting 1707ms
-  ⚠️  Retry 3/4 for watch:l7aRQj1CqUA (HTTP 429), waiting 3285ms
-  ✅ Added 16 songs
+🎂 Building "рожден ден"...
+  ⚠️  Retry 1/4 for search:честит рожден ден кючек (HTTP 429), waiting 1156ms
+  ⚠️  Retry 2/4 for search:честит рожден ден кючек (HTTP 429), waiting 1894ms
+  ⚠️  Retry 3/4 for search:честит рожден ден кючек (HTTP 429), waiting 3519ms
+  ⚠️  Retry 1/4 for search:парти кючек (HTTP 429), waiting 1129ms
+  ⚠️  Retry 2/4 for search:парти кючек (HTTP 429), waiting 1838ms
+  ⚠️  Retry 3/4 for search:парти кючек (HTTP 429), waiting 3423ms
+  ⚠️  oEmbed throttled/rejected (401) for DtxF-Y72OCw, using watch fallback
+  ✅ Added 20 songs
 
 ✅ Expanded kyuchek saved to: ./kyuchek.expanded.yaml
 
 📝 Now validating expanded catalog...
-Scanning 549 video entries...
-[1/549] Checking: Джоджи Бенд - Зараза ... OK
-[2/549] Checking: Джоджи Бенд - Кашлица ... OK
-[3/549] Checking: АЗИС - Исках ... OK
-[4/549] Checking: АЗИС - Бивши ... OK
-[5/549] Checking: Тони Стораро - Студ ... OK
-[6/549] Checking: Nicolae Guta - Alo, alo ambulanta ... OK
-[7/549] Checking: Сава бенд - Птичи грип ... OK
-[8/549] Checking: Корона - кючек ... OK
-[9/549] Checking: Диаманти Бенд - АНТИБИОТИК ... OK
-[10/549] Checking: Диаманти Бенд - Ваксина кючек ... OK
-[11/549] Checking: Орк Верея - Линейка ... OK
-[12/549] Checking: ЕМИЛИАНО - болница ... OK
-[13/549] Checking: Орк. Звезди и Орлин Памуков - Изолация ... OK
-[14/549] Checking: Галена - Знам диагнозата ... OK
-[15/549] Checking: Галена - Паника ... OK
-[16/549] Checking: АЛЕКСАНДАР и ДАЦ - Корона чао ... OK
-[17/549] Checking: Орк. Чар - Локдаун ... OK
-[18/549] Checking: Джодби Бенд - Ваксина ... OK
-[19/549] Checking: Насти и приятели - Микса на народа ... OK
-[20/549] Checking: AMET - 3D тавани ... OK
-[21/549] Checking: Орк. Империал - 6 без 10 ... OK
-[22/549] Checking: метин тайфа - зарзават мармалад ... OK
-[23/549] Checking: unknown - сладурана кючек ... OK
-[24/549] Checking: DJ CEKO - изненада ... OK
-[25/549] Checking: Рико Бенд - Gipsy Camp ... OK
-[26/549] Checking: Алчо - Комшийката ... OK
-[27/549] Checking: Орк. Енерджи Котел - преславски кючек за майстори ... OK
-[28/549] Checking: Орк. Димо бенд - Heroes ... OK
-[29/549] Checking: Орк. Фанта - Бордо ... OK
-[30/549] Checking: Орк. Ицо Бенд - Купонджии ... OK
-[31/549] Checking: Орлин Памуков - Паскал ... OK
-[32/549] Checking: Орлин Памуков - Стрелата ... OK
-[33/549] Checking: unknown - 10 лева давам ... OK
-[34/549] Checking: Влади Марков - Мамино Арче ... OK
-[35/549] Checking: Щилян - Кел Кел ... OK
-[36/549] Checking: unknown - покемон кючек ... OK
-[37/549] Checking: Орк. Grand De Luxe - пикачу ... OK
-[38/549] Checking: Динго и асан баба - кораба ... OK
-[39/549] Checking: Орк. балкански мъже - Darth Vader ... OK
-[40/549] Checking: Dj spirit - дубай кючек ... OK
-[41/549] Checking: Turbo Pascal - Jon Snow ... OK
-[42/549] Checking: Орк. Максим Сен - Автомат ... OK
-[43/549] Checking: Насти - Кербала ... OK
-[44/549] Checking: Орк. Ромски Перли - Осама бин Ладен ... OK
-[45/549] Checking: Орк. Ромски Перли - Брат ми Рамбо ... OK
-[46/549] Checking: unknown - 207 килия ... OK
-[47/549] Checking: Рико Бенд - Спайдърмен ... OK
-[48/549] Checking: Лоренцо - Инстаграм ... OK
-[49/549] Checking: Орк. Диаманти - Фейсбук ... OK
-[50/549] Checking: Фазлия - Хеликоптер ... OK
-[51/549] Checking: Рико Бенд - Барби ... OK
-[52/549] Checking: SINAN ft Azat king - TikTok ... OK
-[53/549] Checking: Орк. Еверест - Еверест 92 ... OK
-[54/549] Checking: Орк. Фантазия - Карбовски ... OK
-[55/549] Checking: Орк. Козари - Пазари ... OK
-[56/549] Checking: Орк. Аполон - Бай Иван ... OK
-[57/549] Checking: Орк. Фантазия - Марихуана ... OK
-[58/549] Checking: Трио Здравец - Бомбата ... OK
-[59/549] Checking: АЗИС - хоп ... OK
-[60/549] Checking: АЗИС - хабиби ... OK
-[61/549] Checking: АЗИС - кажи честно ... OK
-[62/549] Checking: АЗИС и ванко 1 - като тебе втори няма ... OK
-[63/549] Checking: Кондьо - Show да става ... OK
-[64/549] Checking: Тони Стораро и Константин - Кома ... OK
-[65/549] Checking: Весела - Палаво око ... OK
-[66/549] Checking: Галена - Дяволът ме кара ... OK
-[67/549] Checking: Теодора и DJ Jerry - Моят номер ... OK
-[68/549] Checking: Ивана - Шампанско и Сълзи ... OK
-[69/549] Checking: ЗАРКО - 52 ле'а разходи ... OK
-[70/549] Checking: Галена и Гъмзата - Неудобни Въпроси ... OK
-[71/549] Checking: Галена, Преслава и Борис Дали - Бутилка ... OK
-[72/549] Checking: Тиана и Румен Борилов - Ти си топ ... OK
-[73/549] Checking: Тони Стораро - Фалшиви Сълзи ... OK
-[74/549] Checking: Орк. Армани - Потоп ... OK
-[75/549] Checking: Орк. Бриз - Катастрофа ... OK
-[76/549] Checking: Андон Събев - Камъните Падат ... OK
-[77/549] Checking: Edvin Eddy & Alpen Minune - Adrenalina Kocek ... OK
-[78/549] Checking: Асанчо и Айчо - Версаче ... OK
-[79/549] Checking: Орк. Козари - Индиански ... OK
-[80/549] Checking: unknown - Тарикат ... OK
-[81/549] Checking: Мечо ментата и приятели - Гурбетчии ... OK
-[82/549] Checking: Тони Стораро ft DJAMAIKATA - Най-добрата фирма ... OK
-[83/549] Checking: Тони Стораро ft Галена - Шефката ... OK
-[84/549] Checking: Орк. Никая - Баща ми е ... OK
-[85/549] Checking: Деси - Майсторе, майсторе ... OK
-[86/549] Checking: Лия - Митничарю ... OK
-[87/549] Checking: Ина - Зелено ... OK
-[88/549] Checking: Dj станчо шампиона - кой ще кара влака ... OK
-[89/549] Checking: Тони Дачева - Сладка работа ... OK
-[90/549] Checking: Орк. Кристали - Телефони ... OK
-[91/549] Checking: Ростислава - Супер Бизнес Тарикат ... OK
-[92/549] Checking: Орк. Кристали - Тарикат ... OK
-[93/549] Checking: Орк. Рико Бенд - Тарикат ... OK
-[94/549] Checking: Володя Стоянов - Пирамиди, Фараони ... OK
-[95/549] Checking: Орк. Пикадили - Бетонобъркачка ... OK
-[96/549] Checking: Орк. Камчия - Комбайна вършачка ... OK
-[97/549] Checking: Ork. Pampuli - Oblache le bqlo ... OK
-[98/549] Checking: Кати - Най ми е добре ... OK
-[99/549] Checking: Теодора - Грешно-спешно ... OK
-[100/549] Checking: Марко и Снежина - Са-са ... OK
-[101/549] Checking: Теодора - Как ме кефиш ... OK
-[102/549] Checking: Екстра Нина - Вечна измама ... OK
-[103/549] Checking: Максим - Ще Те Хапят Комари ... OK
-[104/549] Checking: Алчо - Комшийката ... OK
-[105/549] Checking: Пантерите - Мулатки ... OK
-[106/549] Checking: unknown - От тук до филипините, шампиони са сините ... OK
-[107/549] Checking: Орк Кнежа - Бясно Куче ... OK
-[108/549] Checking: Попа - Куцо магаре ... OK
-[109/549] Checking: unknown - кокошката ... OK
-[110/549] Checking: Теньо Гогов - буболечка ... OK
-[111/549] Checking: Джоджи Бенд - Вихър 2 ... OK
-[112/549] Checking: Орк. Парламент - Катеричка ... OK
-[113/549] Checking: unknown - bat zondi praseto ... OK
-[114/549] Checking: unknown - риба меч ... OK
-[115/549] Checking: Кути - Крави ... OK
-[116/549] Checking: Милко Калаиджиев - Луда крава ... OK
-[117/549] Checking: Орк. Каменци - Костенурка ... OK
-[118/549] Checking: Орк. Кoзари - Бяла мечка ... OK
-[119/549] Checking: Орк. Фаворит - Черна котка ... OK
-[120/549] Checking: Орк. Кристали - Gozilla ... OK
-[121/549] Checking: unknown - зурла кючек ... OK
-[122/549] Checking: Бат Зонди - Прасето ... OK
-[123/549] Checking: Петра - Хищна хиена ... OK
-[124/549] Checking: Ork. Kamenci - Anakonda ... OK
-[125/549] Checking: Lucky - Taralej ... OK
-[126/549] Checking: Орк. Рико бенд - Краставица ... OK
-[127/549] Checking: Dj West - зелена салата ... OK
-[128/549] Checking: Oрк. Варненци - Пържени картофки ... OK
-[129/549] Checking: Oрк. Варненци - Тез' червени домати ... OK
-[130/549] Checking: Радо Шишарката - Шопска салата ... OK
-[131/549] Checking: Доди и Павко - Отивам за ягоди ... OK
-[132/549] Checking: Орлин Памуков - Кетчуп и майонеза ... OK
-[133/549] Checking: Орк. Звезди и Орлин Памуков - Маслинка ... OK
-[134/549] Checking: Денислав - Дюнера ... OK
-[135/549] Checking: Орк. Кристал, Тони Данчева и Мустафа Чаушеф - Шарени Бонбони ... OK
-[136/549] Checking: unknown - Чикиджийска песен краставичка туршия ... OK
-[137/549] Checking: Алисия - Карамел ... OK
-[138/549] Checking: Орк. Царски Извор - Кючек Перелик ... OK
-[139/549] Checking: Денислав - Дюнери ... OK
-[140/549] Checking: Тони Дачева и орк. Кристал - Три кила банани ... OK
-[141/549] Checking: Симпатяги - Друсан кебап ... OK
-[142/549] Checking: Balkan Fanatic - Whisky Coca Cola ... OK
-[143/549] Checking: Nasko Terziev - Lapai lapai ... OK
-[144/549] Checking: Babi Minune si Susanu - Ia sistem turbat Chak Thak ... OK
-[145/549] Checking: Costel Biju & ELYS - Rupe Topul ... OK
-[146/549] Checking: Наско ментата - шушана ... OK
-[147/549] Checking: Орк. Ориент - Рамзи ... OK
-[148/549] Checking: Орк. Фаворит - железари ... OK
-[149/549] Checking: Djamaika - Сливенски ... OK
-[150/549] Checking: Орк. Янко Слона - But Si Mange Yako ... OK
-[151/549] Checking: Florin Salam & Sorin Talent - Saint Tropez ... OK
-[152/549] Checking: Babek Mamedrzaev - Prinzessa (Принцесса) ... OK
-[153/549] Checking: Орк. Рико Бенд - детонация ... OK
-[154/549] Checking: АЗИС - Напипай го ... OK
-[155/549] Checking: unknown - Йо, йо, швейцарска банка ... OK
-[156/549] Checking: Орк. Миш Маш - Мазна Свирка ... OK
-[157/549] Checking: Орк. Царски Извор - Какаляшка ... OK
-[158/549] Checking: Амет - Гъци Гъци ... OK
-[159/549] Checking: Орк. Кристали - Карам хубава кола ... OK
-[160/549] Checking: БГ Мафия - караш АМГ мерцедес ... OK
-[161/549] Checking: Adnan Beats - 90 60 90 ... OK
-[162/549] Checking: Тихомир - Ламборджини ... OK
-[163/549] Checking: Adriana и Джамайката - Панамера ... OK
-[164/549] Checking: Джоджи Бенд - 2020 Мерцедес 63 АМГ ... OK
-[165/549] Checking: Орк. Браво и Генади Певеца - С класа ... OK
-[166/549] Checking: Dj ersso - Сийке седни на моя симсон ... OK
-[167/549] Checking: Орк. Варненци - Симсона ... OK
-[168/549] Checking: ХАБИБИ FT. МАЛКИТЕ КРИСТАЛЧЕТА - YAK MOTORU ... OK
-[169/549] Checking: Джоджи Бенд - БМВ ... OK
-[170/549] Checking: Коци и Орк. Ботевград - Мерцедес ... OK
-[171/549] Checking: Ercan Ahatli - Помпа ... OK
-[172/549] Checking: Теодора - газ, газ ... OK
-[173/549] Checking: Яница - твоето ферари ... OK
-[174/549] Checking: Орк. Кристали - харча пари ... OK
-[175/549] Checking: бобо Първи & Тита - VIVALDI ... OK
-[176/549] Checking: АЗИС - Автомонтьор ... OK
-[177/549] Checking: Слави и Ку-Ку Бенд - Едно ферари с цвят червен ... OK
-[178/549] Checking: Съби Събев и Борис Любенов - Камион ... OK
-[179/549] Checking: Галена и Фики - Ламборгини ... OK
-[180/549] Checking: Tzanca Uraganu - Ламборгини ... OK
-[181/549] Checking: Орхан Мурад - Дупка до дупка ... OK
-[182/549] Checking: Милко Калайджиев - Буксувай на място ... OK
-[183/549] Checking: Nicolae Guta - Hai in Mercedes, hai in avion ... OK
-[184/549] Checking: Орк. Кристали - Харчи пари ... OK
-[185/549] Checking: Орк. Здравец - Газ-Спирачка ... OK
-[186/549] Checking: Орк. Фаворит - Буксувай на място ... OK
-[187/549] Checking: Орк. Орхидеи - Волгата ... OK
-[188/549] Checking: Малките Кристалчета - Як Мотору ... OK
-[189/549] Checking: Орк. миш маш - Рунтав гъз ... OK
-[190/549] Checking: Орк. Каменци - Единствена си ти ... OK
-[191/549] Checking: Джоджи Бенд - Спрейче ... OK
-[192/549] Checking: Милко Калайджиев - Готина си ... OK
-[193/549] Checking: Орк. Тик Так - Кючека България ... OK
-[194/549] Checking: Орк. Янко слона - But Si Mange Yako ... OK
-[195/549] Checking: Орк. дай тули - дай тули ... OK
-[196/549] Checking: talent de tigan - talent de tigan ... OK
-[197/549] Checking: Митко Щурия Циганин - Еп.1 ... OK
-[198/549] Checking: Wiggle wiggle - wiggle ... OK
-[199/549] Checking: Ивана - 100 патрона ... OK
-[200/549] Checking: Малките пантери - тути фрути ... OK
-[201/549] Checking: Валдес - Жега ... OK
-[202/549] Checking: Тошко тодоров - Радка Пиратка ... OK
-[203/549] Checking: Мира - Цепката ... OK
-[204/549] Checking: Радо Шишарката - Тигре тигре ... OK
-[205/549] Checking: Радо Шишарката - Курви сбогом ... OK
-[206/549] Checking: Недялко Лазаров - Обре Недялко ... OK
-[207/549] Checking: Симпатяги - За милиони няма закони ... OK
-[208/549] Checking: Глория - Скъпи купи ми нещо ... OK
-[209/549] Checking: Братя Кулинови - Тирбушона ... OK
-[210/549] Checking: Руси Русев - На бургаската гара ... OK
-[211/549] Checking: Братя Кулинови - Шкембето ... OK
-[212/549] Checking: Братя Кулинови - Боц-Маан ... OK
-[213/549] Checking: Орк. Аполон - Бай Иван ... OK
-[214/549] Checking: Росица Пейчева - Дай ми тате малко парички ... OK
-[215/549] Checking: Кали - Наща система 4 4 2 ... OK
-[216/549] Checking: Валдес - Рибна Фиеста ... OK
-[217/549] Checking: Нелина - Бял Мерцедес ... OK
-[218/549] Checking: Сашо Роман - 7 дена 7 нощи ... OK
-[219/549] Checking: Милко Калайджиев - Къде си, батко ... OK
-[220/549] Checking: Луна - Тук там, тук там ... OK
-[221/549] Checking: Фанча - Завърти Го Де ... OK
-[222/549] Checking: LOLUGI - Сандокан ... OK
-[223/549] Checking: Руслан - Горе на черешата ... OK
-[224/549] Checking: Мира и Милко Каладжиев - Хей Малката ... OK
-[225/549] Checking: Кати - Пеперуда ... OK
-[226/549] Checking: Ивана - Смукача ... OK
-[227/549] Checking: Глория - Ледена кралица ... OK
-[228/549] Checking: Кати - Гот е ... OK
-[229/549] Checking: Наско Ментата - Елена Елена ... OK
-[230/549] Checking: Тони Дачева и Орк Кристал - Каравана Чайка ... OK
-[231/549] Checking: Валдес - Рибна Фиеста ... OK
-[232/549] Checking: Джаго - Прошка няма ... OK
-[233/549] Checking: Галин - Селската баня ... OK
-[234/549] Checking: Орк. Тръстеник - Гумена палатка ... OK
-[235/549] Checking: Кондьо - Доко Доко ... OK
-[236/549] Checking: Орк. Плам - Майка ти да еба стояне ... OK
-[237/549] Checking: Амет - Белгийски Вечери (live) ... OK
-[238/549] Checking: Марко и Снежина - Бинго ... OK
-[239/549] Checking: Сашка Васева - Левовете в марки ... OK
-[240/549] Checking: Valio Toploto & Ico Tigara - Burgudjiyska stapka ... OK
-[241/549] Checking: Ork. Favorit - Jelezari ... OK
-[242/549] Checking: АЗИС - сен тропе ... OK
-[243/549] Checking: Florin Salam - Saint Tropez ... OK
-[244/549] Checking: Πάνος Κιάμος - Φωτιά με φωτιά ... OK
-[245/549] Checking: Enka - Alayına Zam ... OK
-[246/549] Checking: Брат Мечо - Исус Христос е Светлина ... OK
-[247/549] Checking: Ork. Favorit - Slunchev Brqg Varna ... OK
-[248/549] Checking: Мебели Виденов КЮЧЕК ... OK
-[249/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - Novo AZIS GROUP Razbivaciq KUCHEKA NA MALKATA VESA Яка разбивация Кючека на Малката Веса ... OK
-[250/549] Checking: BEBA X MANDO - BESEN KUCHEK БЕБА х МАНДО БЕСЕН КЮЧЕК ... OK
-[251/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - NOVO Azis Group Za Shefkata na Botevgrad Кючека за Шефката на Ботевград Азис груп ... OK
-[252/549] Checking: ALEX TOPLOTO & MONKEY - MAZEN KUCHEK, 2025 Алекс Топлото & Мънки Мазен Кючек, 2025 ... OK
-[253/549] Checking: fsdsdffsd fdssdfdfs - Незабравимияk Кючек Биназ Now 2015 Parti 1 By Dj MeskooO ... OK
-[254/549] Checking: DJ GyUrHan ShAmPiOnA 2019 - Извинявам се кючек 2019 ... OK
-[255/549] Checking: something for everyone - Буболечка Кючек (видео) ... OK
-[256/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - ZDRAV KUCHEK GUM TEK ... OK
-[257/549] Checking: Zerd - Svatbarski kuchek Сватбарски кючек ... OK
-[258/549] Checking: DJ Krisi - Leo band 2025 originalen hit kuchek Лео бенд Кюстендилски кючек ... OK
-[259/549] Checking: Tuncay Official - NEW! 2ka Kuchek za Dushata ☆ Tuni Style ☆ ♫ █▬█ █ ▀█▀ ♫ 2022 HIT #kuchek ... OK
-[260/549] Checking: muzikabezkray - Кючек за душата ... OK
-[261/549] Checking: OLG PRODUCTION - КЮЧЕК ЗА ДУШАТА 2023 KUCHEK ZA DUSHATA 2023 ... OK
-[262/549] Checking: 🤪DJ ALEKSANDAR MIX САМО ЗА ВАС🎥 - КЮЧЕК ЗА ДУШАТА НОВО 2025👋👌👌🎤🎥🎥🎹🎷🎷🎤📽🎞🎥📼🎹🎹🎸🎷🎷📻 ... OK
-[263/549] Checking: Iwoxandru - Кючек за душата 2025 ... OK
-[264/549] Checking: Elena Gocheva - New🔥Кючек за душата 🔥 ... OK
-[265/549] Checking: Георги Янев и орк Орфей - Джамурка Кючек ... OK
-[266/549] Checking: ОРК. АКТИВ Силви Любенов - орк Актив микс Кючеци за душата 2021г. 0886939513 ... OK
-[267/549] Checking: Bobo63 Boboto - Гръцка песен за Душата🌴💖🌴 ... OK
-[268/549] Checking: Cvetelina Petrova - "Кючека за душата" 🎵🎶 ... OK
-[269/549] Checking: DJ REZKO - ЛЯТО 2024 КЮЧЕК МИКС ... OK
-[270/549] Checking: DJ System - POP FOLK MIX Началото на 2025 ... OK
-[271/549] Checking: Bai Vulcho - *Летен Retro pop folk mix* Bai Vulcho ... OK
-[272/549] Checking: MixWW - SUMMER KUCHEK MIX 2023 ... OK
-[273/549] Checking: DJ Damyan x Emanuela - Okadar DJ Дамян и Емануела Окадар Official Video 2024 ... OK
-[274/549] Checking: DJ Azko - Retro Pop Folk Mashup Kuchek Mix (REUPLOAD) ... OK
-[275/549] Checking: Gery Nikol - Gotina & Luda Готина и луда [Official 4K Video, 2016] ... OK
-[276/549] Checking: rosen tehnika - NEW! ПОКЕМОНИ Кючек ReMix 2016 █▬█ █ ▀█▀ ... OK
-[277/549] Checking: SINAN - BAKMA BANA (Official Music Video) ... OK
-[278/549] Checking: Q Video - Роми Играят ЯКО Кючек!!! ... OK
-[279/549] Checking: DJ Damyan x Sofi Marinova - Kapuchina DJ Дамян и Софи Маринова Капучина Official 2025 ... OK
-[280/549] Checking: DJ Damyan x Monkey - Bitcoin kuchek DJ Дамян и Мънки Биткойн кючек Official 2025 ... OK
-[281/549] Checking: Bai Vulcho - retro pop folk MEGA mix ... OK
-[282/549] Checking: CHALGA MIX 2025 - ЧАЛГА МИКС 2025 Fiki, Galena, Desi Slava, Azis ... OK
-[283/549] Checking: Ретро Чалга - Щилиян и оркестър Китка Секси 1997 ... OK
-[284/549] Checking: DJ Damyan feat. Nas E & Яворчо - Джуси Пуси Кючек [ Official Video ] ... OK
-[285/549] Checking: DJ EMO - Christmas Pop Folk Mix 2025 ... OK
-[286/549] Checking: CHALGA SUMMER MIX 2025 - ЧАЛГА СЪМЪР МИКС 2025 CHALGA SUMMER PARTY MIX 2025 ... OK
-[287/549] Checking: Chalga Mix - CHALGA PARTY MIX 2024🎶 ЧАЛГА ПАРТИ МИКС 2024 CHALGA MIX MUSIC ... OK
-[288/549] Checking: Emanuela - Kasay Емануела Късай Official Video 2025 ... OK
-[289/549] Checking: Paw Patrol - Theme Song (Bulgarian) ... OK
-[290/549] Checking: poli BG - Когато Грани и приятели танцуват кючек ... OK
-[291/549] Checking: бат алекс - Кючека жанмба жанмба 2022 ... OK
-[292/549] Checking: Влади Марков - Кючек ... OK
-[293/549] Checking: Mladen Band Official•ISBOM MUSIC - MLADEN BAND KYUCHEK HAVASI МЛАДЕН БЕНД КЮЧЕК АВАСЪ ... OK
-[294/549] Checking: STUDIO VISION CAREVO 2 - Милчо Къртача Гайда Кючек Monkey&Krum Filipovi Otkachalki 2025 Студио VISION ... OK
-[295/549] Checking: PADARE BABA - GALABCHE KU KU Official Clip 2026 ... OK
-[296/549] Checking: Padare - Kucheka GALABITE KU KU Live 2025 ... OK
-[297/549] Checking: Dj VLADKO MIX IVANOV - Балада„Съдба без хляб“ 2026 DJ VLADKO MIX ... OK
-[298/549] Checking: Видео Лазар - Ork Radi Bend & Ivan Peveca 2025 Кючека На Пресинка Ботевград Cover ... OK
-[299/549] Checking: Dj Malincho - Бесен кючек!👻👻 ... OK
-[300/549] Checking: DJ DAMYAN x BISER KING ft. SANDRITO - ВАЙБЪР КЮЧЕК ... OK
-[301/549] Checking: J&H Chalga Djs - Бесен кючек против училищна депресия 2020 Besen kuchek protiv uchilishna depresiq 2020 ... OK
-[302/549] Checking: Dj georgi mix - Бесен кючек🔊🔥 ... OK
-[303/549] Checking: DJ DAMYAN x BISER KING ft. SANDRITO - БАНКОМАТ КЮЧЕК ... OK
-[304/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - Кючека Половин Кларинет Надиграване SURAI GRUP NADIGRAVANE Polovin Klarinet ... OK
-[305/549] Checking: Видео Лазар - Ork Selfi Grup & Dido 2023 Кючека Поничка 🍩🍩🍩 Cover ... OK
-[306/549] Checking: Wronglen - 1000 pyti kucek 1000 пъти кючек (Originalnata Versia) ... OK
-[307/549] Checking: LEO BAND - Kucheka na Beba ( BIG BROTHER ) ... OK
-[308/549] Checking: Чалга Ритъм - Луд Sax Кючек █▬█ █ ▀█▀ ... OK
-[309/549] Checking: MURDA BOYZ - MAZEN KUCHEK █▬█ █ ▀█▀ МАЗЕН КЮЧЕК 2024 ... OK
-[310/549] Checking: ДжиДжи БиДжи - Кавала кючек (Кавър) ... OK
-[311/549] Checking: Еленa Петровa - Момчета как много играят яка кючек ... OK
-[312/549] Checking: КючециBG - Кокаин Кючек ... OK
-[313/549] Checking: Milcho Studio Official 🎥 📸 - Вальо Топлото ОРГАЗЪМ КЮЧЕК 2026 VALIO TOPLOTO ОRGAZYM ... OK
-[314/549] Checking: Студио видео Никсан - Mladen peveca kuchek klimatik nadigravane #99 2026 ... OK
-[315/549] Checking: MixWW - DASKALO KUCHEK MIX 2022 ... OK
-[316/549] Checking: НАЙ НОВИЯ КЮЧЕК НА АСАНЧО И АЙЧО - ВЕРСАЧЕ 2020 NAY NOVIQ KUCHEK NA ASANCHO I AICHO VERSACE 2020 ... OK
-[317/549] Checking: danchoeriashev - kuchek 2012 kokoshkata ... OK
-[318/549] Checking: Кючека Преслава Надиграване - Kucheka Preslava Nadigravane ... OK
-[319/549] Checking: Krasen Bonev - Sabota Kyuchek Красен Бонев Събота Кючек (Official 4K Video) 2023* ... OK
-[320/549] Checking: Azis - Mrasnica I Азис Мръсница (Official video 2024) ... OK
-[321/549] Checking: Studio Leo Full HD 4K Audio Video Produktion - TOMAS PUMATA 2021 🎷 Golyama Rabota Kuchek 🎷 🎶 New 2021 🎶 ♫ █▬█ █ ▀█▀ ♫ ... OK
-[322/549] Checking: Krasen Bonev - social kuychek Красен Бонев социален кючек (2025) ... OK
-[323/549] Checking: ORK. CHAR - PONEDELNIK ОРК. ЧАР ПОНЕДЕЛНИК [OFFICIAL 4K VIDEO] 2024 ... OK
-[324/549] Checking: alein ali - Alein ali Доди и Павко Отивам за ягоди кючек 2010 ... OK
-[325/549] Checking: DODY X ZIKI - RABOTLIVI KOPANARI ДОДИ И ЗИКИ РАБОТЛИВИ КОПАНАРИ (OFFICIAL VIDEO) ... OK
-[326/549] Checking: Чалга Ритъм - Яко Кючек орк. Мишо Бент 0898951839 ... OK
-[327/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - QK KUCHEK Olimpia Show Asancho Як Кючек Олимпия Шоу ... OK
-[328/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - KUCHEKA ENERGIA Ork. Prima 2026 Ново Кючека Енергия Микс ... OK
-[329/549] Checking: NEW - ★ ЯКО МОЩНА ДЕВЯТКА ЙОНИКА КЮЧЕК ★ 2021 ♫ █▬█ █ ▀█▀♫ ♫ QKO MOSHTNA DEVYATKA KUCHEK ♫ ... OK
-[330/549] Checking: ALPEN MINUNE - NEW MIX KUCHECI 2026 █▬█ █ ▀█▀ #djdjanny ... OK
-[331/549] Checking: Студио видео Никсан - Надиграване на кючек #2 2024 Djodji bend Ramzi kuchek (COVER) ... OK
-[332/549] Checking: Bobby&Music - Ork Genadi peveca 2021 Kucheka pampuli ... OK
-[333/549] Checking: Raina Asenova - Бърз кючек..... ... OK
-[334/549] Checking: Balkan Music - NEW! KLARINET KUCHEK 2021 (Кючек 2021) ... OK
-[335/549] Checking: xashove - ork.imperiq kazanlashki kuchek 2012 radio xashove ... OK
-[336/549] Checking: Студио видео Никсан - КЮЧЕК НАДИГРАВАНЕ NEW 2026 #1million ... OK
-[337/549] Checking: Krasimir Dzhanov - DJ KERRY MONKEY KUCHEK RIKO SHOW ... OK
-[338/549] Checking: Jivko Pavlinov - Оркестър Чака Рака Кючек Завърти колана DJ JANSA VERSION ... OK
-[339/549] Checking: Leo Band - Фитнес Кючек ... OK
-[340/549] Checking: Юлу Матондо - Помпа Кючек (Yulu Matondo Pompa Kuchek Dance) ... OK
-[341/549] Checking: brni petranov - 100% Смях Роналдиньо играе Кючек ... OK
-[342/549] Checking: AES Video & Photography - Майсторски Левски Кючек Maistorski Levski Kuchek 2023 Guner Gurbet ... OK
-[343/549] Checking: █▬█ █ ▀█▀ 2026 Djamala Music - ЛЕВ КЮЧЕК LEV KYUCHEK ☆NEW☆ ... OK
-[344/549] Checking: Stefan Valchev - Невероятен кючек ... OK
-[345/549] Checking: КЮЧЕКА ЕВРО 2025 - Kuchek Time x Orkestara na Shelkata ... OK
-[346/549] Checking: 2Loop AI - Кючека ЕВРО КРИЗА 2026 (Официално видео) EVRO KRIZA 2026 Kuchek (Official Video) ... OK
-[347/549] Checking: SILVER, MC GREKA, NANI & FANTASY BAND - ЦИТИРИДИС КЮЧЕК, 2023 ... OK
-[348/549] Checking: Слави и Ку Ку Бенд - Пружината (live Арена Армеец) ... OK
-[349/549] Checking: STILIYAN feat. DJOSHKUN - #Zhivotno СТИЛИЯН feat. ДЖОШКУН #Животно (Official Music Video) ... OK
-[350/549] Checking: Vsa Topic - И КОЙ КАЗА? (feat. ERDJOO & ERWIN) ... OK
-[351/549] Checking: орк.Козари - Животното кючек 2003 ... OK
-[352/549] Checking: VESSOU - КОЛЕДА КЮЧЕК 2 (OFFICIAL VIDEO) x BLAGOVEST VASILEV ... OK
-[353/549] Checking: King Sizo (KingSizo) - Кючек Курбан ... OK
-[354/549] Checking: PlanetaOfficial - TEDI ALEKSANDROVA Теди Александрова ft. Adnan Beats, Game Over и Nasi От София до Банско, 2017 ... OK
-[355/549] Checking: Влади Априлов - Кючек (1999) ... OK
-[356/549] Checking: DJ Jivko Mix & Niki - Kucheta * DJ Живко Микс и Ники Кучета Official Video 2025 ... OK
-[357/549] Checking: GENADI PEVECA ''STARIQ KUCHI - DUM LAKE'' ГЕНАДИ ПЕВЕЦА "СТАРИЯ КУЧИ ДУМ ЛАКЕ" (Official Video) ... OK
-[358/549] Checking: Severin Stanev - kuchek ot bratovcheda na ramzi ... OK
-[359/549] Checking: ORK. CHAR - SDELKA ILI NE ОРК. ЧАР СДЕЛКА ИЛИ НЕ [OFFICIAL 4K VIDEO] ... OK
-[360/549] Checking: Chanko j. - Кадришен и козари кючек ... OK
-[361/549] Checking: Влади Априлов - Кючек (HQ) ... OK
-[362/549] Checking: IliqnYT - пиле танцува кючек (pilacis mad lips) ... OK
-[363/549] Checking: █▬█ █ ▀█▀ 2026 Djamala Music - ИВАНОВДЕН КЮЧЕК IVANOVDEN KYUCHEK ☆NEW☆ ... OK
-[364/549] Checking: The112361 - кючек салата и ракия ... OK
-[365/549] Checking: КючециBG - Пържени картофки Кючек ... OK
-[366/549] Checking: КючециBG - Лапай, Лапай Кючек ... OK
-[367/549] Checking: AES Video & Photography - МНОГО БЪРЗ КЮЧЕК Mnogo barz Kuchek Genadi Peveca 2023 ... OK
-[368/549] Checking: STUDIO VISION CAREVO 2 - Кючека на Рицаря Ico Ricarq Ceco Bend new Кючек 2025 Гайда Кючек Ново Паничарево ... OK
-[369/549] Checking: Ork.Maksim Shen Topic - Avtomat kuchek ... OK
-[370/549] Checking: Teodor Petrov - Squid Game кючек 2021 (много мазно) ... OK
-[371/549] Checking: Ork.TuGi - kucheka mazno 2 ... OK
-[372/549] Checking: Stiliyan_Official & SashaSandra - MAZH STOMANA Мъж стомана (Official Music Video) ... OK
-[373/549] Checking: ORK SHANS Topic - КЮЧЕК 9 КА 2021 ... OK
-[374/549] Checking: Teodor Petrov - Макс Верстапен кючек (много мазно) ... OK
-[375/549] Checking: Teodor Petrov - Dwayne кючек 2021 (много мазно) ... OK
-[376/549] Checking: Dj VLADKO MIX IVANOV - New Kuchek Sen Kusurmushun Ork Sarski Isvo ( Remix Extended) DJ VLADKO MIX ... OK
-[377/549] Checking: Teodor Petrov - Льоклер кючек 2024 (много мазно) ... OK
-[378/549] Checking: Alex Niko - www.Mall359.com Горещ Кючек ... OK
-[379/549] Checking: DJ Damyan x ork. Salih Hamburg - 1 Milion DJ Дамян и орк. Салих Хамбург 1 Милион Official 2024 ... OK
-[380/549] Checking: stoxxata - КОКА КОЛА КЮЧЕК ... OK
-[381/549] Checking: Marin Marinov - Оркестър Прима Кока кола кючек ... OK
-[382/549] Checking: KRISANDI - BALENCIAGA KUCHEK (Official Video) ... OK
-[383/549] Checking: PAMECA x GARJOKA 681 - WHISKY COCA COLA [OFFICIAL 2025 VIDEO] ... OK
-[384/549] Checking: Denislav Dimitrov - Extended! Дубай кючек by Dj Spirit & Dj Damian ... OK
-[385/549] Checking: Andrei aleksadrov - кючека зараза A N D R E W. B A S S ... OK
-[386/549] Checking: julien kobrata - kuchek za vsichki tarikati ... OK
-[387/549] Checking: █▬█ █ ▀█▀ 2025 Djamala Music - ЛАДА КЮЧЕК ☆NEW☆ ... OK
-[388/549] Checking: RIstem Familiq - Ristem i Familiq 2025 ENGLISH TALLAVA HIT Za Jevo Mashinata ... OK
-[389/549] Checking: TONI & PETAR RANGELOV - G Class 2020 ( Cover ) ( BOSHKOMIX ) ... OK
-[390/549] Checking: SHOW KUCHEK - BILQNA & ork. Surai Group ШОУ КЮЧЕК БИЛЯНА И орк.СУРАЙ ГРУП ... OK
-[391/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - Кючека на Близначките 2026 Яко ork. Intriga ... OK
-[392/549] Checking: NOVO ORK PRIMA - KUCHEKA BAZUKA MIX 2025 Ново орк. Прима Кючека Базука Микс ... OK
-[393/549] Checking: Тони Валята (СТУДИО ВАЛЯТА) - ROKSANA NOVO QK KIUCHEK SHOW BELGIA GENT НОВО РОКСАНА ЯК КЮЧЕК ШОУ БЕЛГИЯ ГЕНT ... OK
-[394/549] Checking: KRISKO & GALENA - KAVALA KUCHEK (Official Video) ... OK
-[395/549] Checking: ANGEL FEAT. JAMAYKATA - ZHIVEE MI SE АНГЕЛ FEAT. ДЖАМАЙКАТА Живее ми се (Official Music Video) ... OK
-[396/549] Checking: симона симеонова - Момиче играе Яко кючек соло барабани ... OK
-[397/549] Checking: Dj VLADKO MIX IVANOV - NEW KUCHEK DABES & MOMICHETA OT TIK TOK 2023 REMIX*( DJ VLADKO MIX Remix Extended) ... OK
-[398/549] Checking: TSETSKO BOYANOV - Momiche igrae kuchek ... OK
-[399/549] Checking: Ork Experia - Levchenski Originalen Kuchek Live 2024 ... OK
-[400/549] Checking: MECHKA KUCHEK - Ork Experia Live 2026 ... OK
-[401/549] Checking: BG MUSİC CHANNEL - Kuchek Burguciyski. Yonika Kuchek. ... OK
-[402/549] Checking: ork MECHO & NIKI - MASHUP Pro Remix ... OK
-[403/549] Checking: StUdiO DiMitRoV - Ork.Diamanti kucheka pastichka 2018 NEW ... OK
-[404/549] Checking: Румен И Пауталия - Апогей Кючек ... OK
-[405/549] Checking: Студио видео Никсан - НАДИГРАВАНЕ НА КЮЧЕК 2025 №1 NIKSAN VIDEO #2026 ... OK
-[406/549] Checking: Петър Любчев и Панайот Стойчев - Еркечки кючек ... OK
-[407/549] Checking: Balkan Music - Сливенска Долама (Кючек 2020) ... OK
-[408/549] Checking: Панаги груп - "Ънтурбат (Откачен) кючек" 2023 ... OK
-[409/549] Checking: Alpen Minune - Ork.Romaniei & Deivid 100 RETRO KOCEK (Remix) 2026 ... OK
-[410/549] Checking: Страхил фото видео - Състезание кючек Руен ... OK
-[411/549] Checking: Leo Band - Държавен Кючек ... OK
-[412/549] Checking: STEFCHO BAND & Timcho Turboto - KUCHEK GRUPA KESH 2025 HIT Стефчо Бенд Кючек за Група Кеш 2025 ... OK
-[413/549] Checking: Lakosta Band - Kuchek Klavir Aga ... OK
-[414/549] Checking: BORIL ILIEV ft. FANTASY BAND - KUCHEK ... OK
-[415/549] Checking: Leo Band - Ивка Бейбе КЮЧЕК ... OK
-[416/549] Checking: LEO BAND - Cuba Libre kuchek Live ( STUDIO BOSHKOMIX ) ... OK
-[417/549] Checking: GAMZATA & KU KU BAND - PRUJINATA KUCHEK 2016 Гъмзата и Ку Ку бенд Пружината Кючек 2016 ... OK
-[418/549] Checking: ДЖОРДАН x НЕЛИНА - Бял Мерцедес (Уникален Дует ALØX Remix 2026) ... OK
-[419/549] Checking: Ork Karandila - Kiuchek ABC Орк. Карандила Кючек АБЦ ... OK
-[420/549] Checking: S2P BG - Зайченцето Бяло Орк. Шумна Джунгла ft. Азислава (Кючек 2025) ... OK
-[421/549] Checking: Илиян Йосифов - Орк.Вип и Петко Кючек 2019 ... OK
-[422/549] Checking: Трио Здравец Topic - Варненски кючек ... OK
-[423/549] Checking: Румен Русков - Калаѝджѝски кючек ... OK
-[424/549] Checking: Tihomir Draganov - DJ Tuto Сашо,Кико Сватба на Томи и Румен Влашки кючек Wedding in northwestern Bulgaria ... OK
-[425/549] Checking: BEKITO - Ретро Гайда Кючек BEKITO ... OK
-[426/549] Checking: ignasio antonov - Ork.Kamenci Live kuchek by ignasio antonov ... OK
-[427/549] Checking: DJ CHOCHO & DJ NIKI J - KUCHEK MIX BEST RETRO HITS MIX BY DJ CHOCHO & DJ NIKI J ... OK
-[428/549] Checking: Щилян - Кел Кел (добър звук) Shtilqn Kel kel (dobar zvuk) Retro chalga Ретро чалга ... OK
-[429/549] Checking: Оркестър Бриз - Оркестър Бриз Кючек Ду далла 2016 ... OK
-[430/549] Checking: Evropa Group - Taka dobre li e? Европа Груп Така добре ли е? (Official Video) 2025 ... OK
-[431/549] Checking: Джамайката - Лихварски Кючек ... OK
-[432/549] Checking: Denislav - Duner kuchek + DOWNLOAD LINK ... OK
-[433/549] Checking: BOGI AI MIx - Kuchek Kardarashka sreshta 2026 ... OK
-[434/549] Checking: GANCHO STRELATA - KUCHEKA DELTA FORS ... OK
-[435/549] Checking: NEW Асанчо - Кючека ДАЛАВЕРА 2013 NEW ... OK
-[436/549] Checking: АСЕН КУТЕВ - КЮЧЕКА МИЛАНО MILANO [Official Video, 2026] ... OK
-[437/549] Checking: GE Music Official - КЮЧЕКА БАНКНОТА ( Official 4K Video) AI 2026 ... OK
-[438/549] Checking: Хамо и Орк Медни Звуци - Радански кючек Hamo i Ork Medni Zvuci Radanski Kuchek ... OK
-[439/549] Checking: AZIS - SEN TROPE АЗИС Сен Тропе (Official Music Video) ... OK
-[440/549] Checking: TANEFF - SEN TROPE & DUBAI KUCHEK MIX (TANEFF MIX) ... OK
-[441/549] Checking: Меди LIVE MIX - Сен Тропе, кючеци (Пружината, Нирвана кючек) ... OK
-[442/549] Checking: AZIS - HAYDE NA MORETO АЗИС Хайде на морето [Official Visualizer] ... OK
-[443/549] Checking: AZIS - SEN TROPE АЗИС Сен Тропе [Official Visualizer] ... OK
-[444/549] Checking: AZIS - HOP АЗИС Хоп [Official Visualizer] ... OK
-[445/549] Checking: Azis - sen trope mix (NEW) ... OK
-[446/549] Checking: djkara yasar - DJ KARA '' AZIS SUMMER 2014 MIX'' WWW.DJKARA.COM ... OK
-[447/549] Checking: AZIS - MYKONOS АЗИС Миконос (Official Music Video) ... OK
-[448/549] Checking: Aaron Sevilla - Afro House Saint Tropez AaronSevilla Afro Mix, Florin Salam, Claudia León (Radio Edit) ... OK
-[449/549] Checking: Оркестър Бриз - Оркестър Бриз и Наско Ментата Молитва 2016 ... OK
-[450/549] Checking: georev - Кючек Женска молитва ... OK
-[451/549] Checking: Оркестър Бриз - Оркестър Бриз "Турбо Малай" 2021 ... OK
-[452/549] Checking: ORK. ORHIDEI - VOLGATA ОРК. ОРХИДЕИ ВОЛГАТА [OFFICIAL VIDEO] ... OK
-[453/549] Checking: Альоша & Георги Георгиев - Народен Кючек Aliosha & Georgi Georgiev Naroden Kiuchek ... OK
-[454/549] Checking: Marin Marinov - Vasko Zabata Оркестър Камчия Kamchia orhestra Комбайна вършачка Kombayna varshachka Official video ... OK
-[455/549] Checking: Альоша - Кючека на Веса ... OK
-[456/549] Checking: 🎤Vili Pilafola - kopanarski ''MIX'' ♫ [Вили Пилафова] копанарски ''Микс'' ... OK
-[457/549] Checking: NOVO ORK PRIMA - BELGIA MIX KIUCHECI 2023 ... OK
-[458/549] Checking: DJ Krisi - Riko Band 2025 HIT kucheka pernik.Рико Бенд кючек. DJ Krisi 0899981972 ... OK
-[459/549] Checking: Yanitsa Topic - Kyuchek Leko ... OK
-[460/549] Checking: Danailov Sound Official - Tuba Brass Bend ''Golqmata ekskurziq'' ТУБА БРАС БЕНД ''ГОЛЯМАТА ЕКСКУРЗИЯ (Official Video) 2022 ... OK
-[461/549] Checking: Menko & Иван Градушката - почивка кючек ... OK
-[462/549] Checking: Чалга Ритъм - КЮЧЕКА НА СЛАВИ 2 и Иван Градушката ... OK
-[463/549] Checking: Milko Kalaydzhiev & Biser King - Hilife kyuchek * М. Калайджиев и Бисер Кинг Хайлайф кючек I 2025 ... OK
-[464/549] Checking: ALIOSHA & ORK. TANGRA FOLK - MIX KUCHEK ... OK
-[465/549] Checking: Иван Градушката - гайда кючек ... OK
-[466/549] Checking: BOSHKO Official - Най Якия Кючек 2017 ... OK
-[467/549] Checking: EMRAH ft. GALENA ft. ork. CHAR - ERGENAT ЕМРАХ ft. ГАЛЕНА ft. орк. ЧАР ЕРГЕНЪТ [OFFICIAL VIDEO] ... OK
-[468/549] Checking: ICO TIGARA OFFICIAL - ICO TIGARA KABA ZURNA KUCHEKA NA ZATVORNICITE ... OK
-[469/549] Checking: Remix BG - Мебели Виденов КЮЧЕК Mebeli Videnov KUCHEK ... OK
-[470/549] Checking: Dido Paynera Provideo - Кабадан кючек Тереза Мей kabadan kuchek tereza mei ... OK
-[471/549] Checking: Иван Градушката, Боян Боянов и Krum - Гайда Кючек ... OK
-[472/549] Checking: Студио Илиеви - 9 KA x MAISTOR NA KUCHEK ... OK
-[473/549] Checking: Balkan Music - НОВО КЮЧЕК ВЛАКА ИДЕ (Кючек 2018) ... OK
-[474/549] Checking: STEFCHO BEND - LIVE TALLAVA HIT 2025 BREMEN MEGA PARTY MEMO IZVSTEN Club Show in Germany ... OK
-[475/549] Checking: sero prada - kuchek dom dom ... OK
-[476/549] Checking: Roma Tv - ork popeler dum tek 2023 hit kuchek ... OK
-[477/549] Checking: Кючеци - Комшийката от втория етаж Кючек Комшийката Кючеци https youtu.be EuX18Q1tFho ... OK
-[478/549] Checking: Frank Costello - Kuchek Dale ... OK
-[479/549] Checking: имен ден - Георги ... OK
-[480/549] Checking: имен ден - Димитър ... OK
-[481/549] Checking: имен ден - Иван ... OK
-[482/549] Checking: имен ден - Николай ... OK
-[483/549] Checking: имен ден - Петър ... OK
-[484/549] Checking: имен ден - Христо ... OK
-[485/549] Checking: имен ден - Александър ... OK
-[486/549] Checking: имен ден - Стефан ... OK
-[487/549] Checking: имен ден - Йордан ... OK
-[488/549] Checking: имен ден - Тодор ... OK
-[489/549] Checking: имен ден - Васил ... OK
-[490/549] Checking: имен ден - Атанас ... OK
-[491/549] Checking: имен ден - Борис ... OK
-[492/549] Checking: имен ден - Калоян ... OK
-[493/549] Checking: имен ден - Красимир ... OK
-[494/549] Checking: имен ден - Любомир ... OK
-[495/549] Checking: имен ден - Мартин ... OK
-[496/549] Checking: имен ден - Даниел ... OK
-[497/549] Checking: имен ден - Виктор ... OK
-[498/549] Checking: имен ден - Пламен ... OK
-[499/549] Checking: имен ден - Илия ... OK
-[500/549] Checking: имен ден - Ангел ... OK
-[501/549] Checking: имен ден - Камен ... OK
-[502/549] Checking: имен ден - Павел ... OK
-[503/549] Checking: имен ден - Костадин ... OK
-[504/549] Checking: имен ден - Добромир ... OK
-[505/549] Checking: имен ден - Мария ... OK
-[506/549] Checking: имен ден - Елена ... OK
-[507/549] Checking: имен ден - Иванка ... OK
-[508/549] Checking: имен ден - Йорданка ... OK
-[509/549] Checking: имен ден - Гергана ... OK
-[510/549] Checking: имен ден - Десислава ... OK
-[511/549] Checking: имен ден - Теодора ... OK
-[512/549] Checking: имен ден - Виктория ... OK
-[513/549] Checking: имен ден - Никол ... OK
-[514/549] Checking: имен ден - Стефка ... OK
-[515/549] Checking: имен ден - Румяна ... OK
-[516/549] Checking: имен ден - Виолета ... OK
-[517/549] Checking: имен ден - Цветелина ... OK
-[518/549] Checking: имен ден - Цветана ... OK
-[519/549] Checking: имен ден - Росица ... OK
-[520/549] Checking: имен ден - Радка ... OK
-[521/549] Checking: имен ден - Зорница ... OK
-[522/549] Checking: имен ден - Лилия ... OK
-[523/549] Checking: имен ден - Надежда ... OK
-[524/549] Checking: имен ден - Любов ... OK
-[525/549] Checking: имен ден - Вяра ... OK
-[526/549] Checking: имен ден - Надя ... OK
-[527/549] Checking: имен ден - Татяна ... OK
-[528/549] Checking: имен ден - Даниела ... OK
-[529/549] Checking: имен ден - Силвия ... OK
-[530/549] Checking: имен ден - Милена ... OK
-[531/549] Checking: имен ден - Кристина ... OK
-[532/549] Checking: Bakhtalo Guaril - NEW!!! KUCHEKA HAPPY BIRTHDAY КЮЧЕКА ЧЕСТИТ РОЖДЕН ДЕН ... OK
-[533/549] Checking: ORK. CHAR - HAPPY BIRTHDAY ОРК. ЧАР ЧЕСТИТ РОЖДЕН ДЕН [OFFICIAL 4K VIDEO] ... OK
-[534/549] Checking: ILIYAN - CHESTIT ROJDEN DEN KUCHEK 2020 (Live) ИЛИЯН ЧЕСТИТ РОЖДЕН ДЕН КЮЧЕК (Live)★ █▬█ █ ▀█▀ ★ ... OK
-[535/549] Checking: Happy Birthday Songs by I Wish You - Happy Birthday To You Song Remix 🎂🎉 ... OK
-[536/549] Checking: Happy Birthday Songs by I Wish You - Cutest Happy Birthday Song 🩷 ... OK
-[537/549] Checking: ILIAN BOYD - KOKONA ИЛИЯН БОЙД КОКОНА OFFICIAL VIDEO ... OK
-[538/549] Checking: Bakhtalo Guaril - Happy birthday KUCHEK Честит рожден ден кючек ... OK
-[539/549] Checking: Happy Birthday Songs by I Wish You - Countdown 🎂 Happy Birthday Song 🎉 ... OK
-[540/549] Checking: Happy Birthday Songs - Surprise Happy Birthday to you song 🎊🎉♥️ Share to your special one ♥️ ... OK
-[541/549] Checking: Рико Бенд - Рожденика Riko Band Rozhdenika ... OK
-[542/549] Checking: S2P BG - Честит Рожден Ден Орк. Шумна Джунгла (Кючек 2025) ... OK
-[543/549] Checking: VESELIN MARINOV - ROZHDEN DEN Веселин Маринов Рожден ден, live 2016 ... OK
-[544/549] Checking: Николай Борисов - Zelena salata kuchek ... OK
-[545/549] Checking: Happy Birthday - Happy Birthday To You Song Remix DJ ... OK
-[546/549] Checking: Фики x Азис - Цвето Fiki x Azis Cveto Official 4K Video, 2024 ♪ ... OK
-[547/549] Checking: Happy Birthday - Happy Birthday Song!!! ... OK
+Scanning 551 video entries...
+[1/551] Checking: Джоджи Бенд - Зараза ... OK
+[2/551] Checking: Джоджи Бенд - Кашлица ... OK
+[3/551] Checking: АЗИС - Исках ... INVALID (age-restricted)
+[3/551] Searching replacement for: АЗИС - Исках ... FOUND (score=0.65) -> https://www.youtube.com/watch?v=gGVxiimCPS8
+[4/551] Checking: АЗИС - Бивши ... OK
+[5/551] Checking: Тони Стораро - Студ ... OK
+[6/551] Checking: Nicolae Guta - Alo, alo ambulanta ... OK
+[7/551] Checking: Сава бенд - Птичи грип ... OK
+[8/551] Checking: Корона - кючек ... OK
+[9/551] Checking: Диаманти Бенд - АНТИБИОТИК ... OK
+[10/551] Checking: Диаманти Бенд - Ваксина кючек ... OK
+[11/551] Checking: Орк Верея - Линейка ... OK
+[12/551] Checking: ЕМИЛИАНО - болница ... OK
+[13/551] Checking: Орк. Звезди и Орлин Памуков - Изолация ... OK
+[14/551] Checking: Галена - Знам диагнозата ... OK
+[15/551] Checking: Галена - Паника ... OK
+[16/551] Checking: АЛЕКСАНДАР и ДАЦ - Корона чао ... OK
+[17/551] Checking: Орк. Чар - Локдаун ... OK
+[18/551] Checking: Джодби Бенд - Ваксина ... OK
+[19/551] Checking: Насти и приятели - Микса на народа ... OK
+[20/551] Checking: AMET - 3D тавани ... OK
+[21/551] Checking: Орк. Империал - 6 без 10 ... OK
+[22/551] Checking: метин тайфа - зарзават мармалад ... OK
+[23/551] Checking: unknown - сладурана кючек ... OK
+[24/551] Checking: DJ CEKO - изненада ... OK
+[25/551] Checking: Рико Бенд - Gipsy Camp ... OK
+[26/551] Checking: Алчо - Комшийката ... OK
+[27/551] Checking: Орк. Енерджи Котел - преславски кючек за майстори ... OK
+[28/551] Checking: Орк. Димо бенд - Heroes ... OK
+[29/551] Checking: Орк. Фанта - Бордо ... OK
+[30/551] Checking: Орк. Ицо Бенд - Купонджии ... OK
+[31/551] Checking: Орлин Памуков - Паскал ... OK
+[32/551] Checking: Орлин Памуков - Стрелата ... OK
+[33/551] Checking: unknown - 10 лева давам ... OK
+[34/551] Checking: Влади Марков - Мамино Арче ... OK
+[35/551] Checking: Щилян - Кел Кел ... OK
+[36/551] Checking: unknown - покемон кючек ... OK
+[37/551] Checking: Орк. Grand De Luxe - пикачу ... OK
+[38/551] Checking: Динго и асан баба - кораба ... OK
+[39/551] Checking: Орк. балкански мъже - Darth Vader ... OK
+[40/551] Checking: Dj spirit - дубай кючек ... OK
+[41/551] Checking: Turbo Pascal - Jon Snow ... OK
+[42/551] Checking: Орк. Максим Сен - Автомат ... OK
+[43/551] Checking: Насти - Кербала ... OK
+[44/551] Checking: Орк. Ромски Перли - Осама бин Ладен ... OK
+[45/551] Checking: Орк. Ромски Перли - Брат ми Рамбо ... OK
+[46/551] Checking: unknown - 207 килия ... OK
+[47/551] Checking: Рико Бенд - Спайдърмен ... OK
+[48/551] Checking: Лоренцо - Инстаграм ... OK
+[49/551] Checking: Орк. Диаманти - Фейсбук ... OK
+[50/551] Checking: Фазлия - Хеликоптер ... OK
+[51/551] Checking: Рико Бенд - Барби ... OK
+[52/551] Checking: SINAN ft Azat king - TikTok ... OK
+[53/551] Checking: Орк. Еверест - Еверест 92 ... INVALID (age-restricted)
+[53/551] Searching replacement for: Орк. Еверест - Еверест 92 ... NOT FOUND - commenting out
+[54/551] Checking: Орк. Фантазия - Карбовски ... OK
+[55/551] Checking: Орк. Козари - Пазари ... OK
+[56/551] Checking: Орк. Аполон - Бай Иван ... OK
+[57/551] Checking: Орк. Фантазия - Марихуана ... OK
+[58/551] Checking: Трио Здравец - Бомбата ... OK
+[59/551] Checking: АЗИС - хоп ... OK
+[60/551] Checking: АЗИС - хабиби ... OK
+[61/551] Checking: АЗИС - кажи честно ... OK
+[62/551] Checking: АЗИС и ванко 1 - като тебе втори няма ... OK
+[63/551] Checking: Кондьо - Show да става ... OK
+[64/551] Checking: Тони Стораро и Константин - Кома ... OK
+[65/551] Checking: Весела - Палаво око ... OK
+[66/551] Checking: Галена - Дяволът ме кара ... OK
+[67/551] Checking: Теодора и DJ Jerry - Моят номер ... OK
+[68/551] Checking: Ивана - Шампанско и Сълзи ... OK
+[69/551] Checking: ЗАРКО - 52 ле'а разходи ... OK
+[70/551] Checking: Галена и Гъмзата - Неудобни Въпроси ... OK
+[71/551] Checking: Галена, Преслава и Борис Дали - Бутилка ... OK
+[72/551] Checking: Тиана и Румен Борилов - Ти си топ ... OK
+[73/551] Checking: Тони Стораро - Фалшиви Сълзи ... OK
+[74/551] Checking: Орк. Армани - Потоп ... OK
+[75/551] Checking: Орк. Бриз - Катастрофа ... OK
+[76/551] Checking: Андон Събев - Камъните Падат ... OK
+[77/551] Checking: Edvin Eddy & Alpen Minune - Adrenalina Kocek ... OK
+[78/551] Checking: Асанчо и Айчо - Версаче ... OK
+[79/551] Checking: Орк. Козари - Индиански ... OK
+[80/551] Checking: unknown - Тарикат ... OK
+[81/551] Checking: Мечо ментата и приятели - Гурбетчии ... OK
+[82/551] Checking: Тони Стораро ft DJAMAIKATA - Най-добрата фирма ... OK
+[83/551] Checking: Тони Стораро ft Галена - Шефката ... OK
+[84/551] Checking: Орк. Никая - Баща ми е ... OK
+[85/551] Checking: Деси - Майсторе, майсторе ... OK
+[86/551] Checking: Лия - Митничарю ... OK
+[87/551] Checking: Ина - Зелено ... OK
+[88/551] Checking: Dj станчо шампиона - кой ще кара влака ... OK
+[89/551] Checking: Тони Дачева - Сладка работа ... OK
+[90/551] Checking: Орк. Кристали - Телефони ... OK
+[91/551] Checking: Ростислава - Супер Бизнес Тарикат ... OK
+[92/551] Checking: Орк. Кристали - Тарикат ... OK
+[93/551] Checking: Орк. Рико Бенд - Тарикат ... OK
+[94/551] Checking: Володя Стоянов - Пирамиди, Фараони ... OK
+[95/551] Checking: Орк. Пикадили - Бетонобъркачка ... OK
+[96/551] Checking: Орк. Камчия - Комбайна вършачка ... OK
+[97/551] Checking: Ork. Pampuli - Oblache le bqlo ... OK
+[98/551] Checking: Кати - Най ми е добре ... OK
+[99/551] Checking: Теодора - Грешно-спешно ... OK
+[100/551] Checking: Марко и Снежина - Са-са ... OK
+[101/551] Checking: Теодора - Как ме кефиш ... OK
+[102/551] Checking: Екстра Нина - Вечна измама ... OK
+[103/551] Checking: Максим - Ще Те Хапят Комари ... OK
+[104/551] Checking: Алчо - Комшийката ... OK
+[105/551] Checking: Пантерите - Мулатки ... OK
+[106/551] Checking: unknown - От тук до филипините, шампиони са сините ... OK
+[107/551] Checking: Орк Кнежа - Бясно Куче ... OK
+[108/551] Checking: Попа - Куцо магаре ... OK
+[109/551] Checking: unknown - кокошката ... OK
+[110/551] Checking: Теньо Гогов - буболечка ... OK
+[111/551] Checking: Джоджи Бенд - Вихър 2 ... OK
+[112/551] Checking: Орк. Парламент - Катеричка ... OK
+[113/551] Checking: unknown - bat zondi praseto ... OK
+[114/551] Checking: unknown - риба меч ... OK
+[115/551] Checking: Кути - Крави ... OK
+[116/551] Checking: Милко Калаиджиев - Луда крава ... OK
+[117/551] Checking: Орк. Каменци - Костенурка ... OK
+[118/551] Checking: Орк. Кoзари - Бяла мечка ... OK
+[119/551] Checking: Орк. Фаворит - Черна котка ... OK
+[120/551] Checking: Орк. Кристали - Gozilla ... OK
+[121/551] Checking: unknown - зурла кючек ... OK
+[122/551] Checking: Бат Зонди - Прасето ... OK
+[123/551] Checking: Петра - Хищна хиена ... OK
+[124/551] Checking: Ork. Kamenci - Anakonda ... OK
+[125/551] Checking: Lucky - Taralej ... OK
+[126/551] Checking: Орк. Рико бенд - Краставица ... OK
+[127/551] Checking: Dj West - зелена салата ... OK
+[128/551] Checking: Oрк. Варненци - Пържени картофки ... OK
+[129/551] Checking: Oрк. Варненци - Тез' червени домати ... OK
+[130/551] Checking: Радо Шишарката - Шопска салата ... OK
+[131/551] Checking: Доди и Павко - Отивам за ягоди ... INVALID (age-restricted)
+[131/551] Searching replacement for: Доди и Павко - Отивам за ягоди ... FOUND (score=0.76) -> https://www.youtube.com/watch?v=HutGb6DBpDY
+[132/551] Checking: Орлин Памуков - Кетчуп и майонеза ... OK
+[133/551] Checking: Орк. Звезди и Орлин Памуков - Маслинка ... OK
+[134/551] Checking: Денислав - Дюнера ... INVALID (age-restricted)
+[134/551] Searching replacement for: Денислав - Дюнера ... FOUND (score=0.74) -> https://www.youtube.com/watch?v=xZ_grpxjV1A
+[135/551] Checking: Орк. Кристал, Тони Данчева и Мустафа Чаушеф - Шарени Бонбони ... OK
+[136/551] Checking: unknown - Чикиджийска песен краставичка туршия ... OK
+[137/551] Checking: Алисия - Карамел ... OK
+[138/551] Checking: Орк. Царски Извор - Кючек Перелик ... OK
+[139/551] Checking: Денислав - Дюнери ... OK
+[140/551] Checking: Тони Дачева и орк. Кристал - Три кила банани ... OK
+[141/551] Checking: Симпатяги - Друсан кебап ... OK
+[142/551] Checking: Balkan Fanatic - Whisky Coca Cola ... OK
+[143/551] Checking: Nasko Terziev - Lapai lapai ... OK
+[144/551] Checking: Babi Minune si Susanu - Ia sistem turbat Chak Thak ... OK
+[145/551] Checking: Costel Biju & ELYS - Rupe Topul ... OK
+[146/551] Checking: Наско ментата - шушана ... OK
+[147/551] Checking: Орк. Ориент - Рамзи ... OK
+[148/551] Checking: Орк. Фаворит - железари ... OK
+[149/551] Checking: Djamaika - Сливенски ... OK
+[150/551] Checking: Орк. Янко Слона - But Si Mange Yako ... OK
+[151/551] Checking: Florin Salam & Sorin Talent - Saint Tropez ... OK
+[152/551] Checking: Babek Mamedrzaev - Prinzessa (Принцесса) ... OK
+[153/551] Checking: Орк. Рико Бенд - детонация ... OK
+[154/551] Checking: АЗИС - Напипай го ... OK
+[155/551] Checking: unknown - Йо, йо, швейцарска банка ... OK
+[156/551] Checking: Орк. Миш Маш - Мазна Свирка ... OK
+[157/551] Checking: Орк. Царски Извор - Какаляшка ... OK
+[158/551] Checking: Амет - Гъци Гъци ... OK
+[159/551] Checking: Орк. Кристали - Карам хубава кола ... OK
+[160/551] Checking: БГ Мафия - караш АМГ мерцедес ... OK
+[161/551] Checking: Adnan Beats - 90 60 90 ... OK
+[162/551] Checking: Тихомир - Ламборджини ... OK
+[163/551] Checking: Adriana и Джамайката - Панамера ... OK
+[164/551] Checking: Джоджи Бенд - 2020 Мерцедес 63 АМГ ... OK
+[165/551] Checking: Орк. Браво и Генади Певеца - С класа ... OK
+[166/551] Checking: Dj ersso - Сийке седни на моя симсон ... INVALID (age-restricted)
+[166/551] Searching replacement for: Dj ersso - Сийке седни на моя симсон ... NOT FOUND - commenting out
+[167/551] Checking: Орк. Варненци - Симсона ... OK
+[168/551] Checking: ХАБИБИ FT. МАЛКИТЕ КРИСТАЛЧЕТА - YAK MOTORU ... OK
+[169/551] Checking: Джоджи Бенд - БМВ ... OK
+[170/551] Checking: Коци и Орк. Ботевград - Мерцедес ... OK
+[171/551] Checking: Ercan Ahatli - Помпа ... OK
+[172/551] Checking: Теодора - газ, газ ... OK
+[173/551] Checking: Яница - твоето ферари ... OK
+[174/551] Checking: Орк. Кристали - харча пари ... OK
+[175/551] Checking: бобо Първи & Тита - VIVALDI ... OK
+[176/551] Checking: АЗИС - Автомонтьор ... OK
+[177/551] Checking: Слави и Ку-Ку Бенд - Едно ферари с цвят червен ... OK
+[178/551] Checking: Съби Събев и Борис Любенов - Камион ... OK
+[179/551] Checking: Галена и Фики - Ламборгини ... OK
+[180/551] Checking: Tzanca Uraganu - Ламборгини ... OK
+[181/551] Checking: Орхан Мурад - Дупка до дупка ... OK
+[182/551] Checking: Милко Калайджиев - Буксувай на място ... OK
+[183/551] Checking: Nicolae Guta - Hai in Mercedes, hai in avion ... OK
+[184/551] Checking: Орк. Кристали - Харчи пари ... OK
+[185/551] Checking: Орк. Здравец - Газ-Спирачка ... OK
+[186/551] Checking: Орк. Фаворит - Буксувай на място ... OK
+[187/551] Checking: Орк. Орхидеи - Волгата ... OK
+[188/551] Checking: Малките Кристалчета - Як Мотору ... OK
+[189/551] Checking: Орк. миш маш - Рунтав гъз ... OK
+[190/551] Checking: Орк. Каменци - Единствена си ти ... OK
+[191/551] Checking: Джоджи Бенд - Спрейче ... OK
+[192/551] Checking: Милко Калайджиев - Готина си ... OK
+[193/551] Checking: Орк. Тик Так - Кючека България ... OK
+[194/551] Checking: Орк. Янко слона - But Si Mange Yako ... OK
+[195/551] Checking: Орк. дай тули - дай тули ... OK
+[196/551] Checking: talent de tigan - talent de tigan ... OK
+[197/551] Checking: Митко Щурия Циганин - Еп.1 ... OK
+[198/551] Checking: Wiggle wiggle - wiggle ... OK
+[199/551] Checking: Ивана - 100 патрона ... OK
+[200/551] Checking: Малките пантери - тути фрути ... OK
+[201/551] Checking: Валдес - Жега ... OK
+[202/551] Checking: Тошко тодоров - Радка Пиратка ... OK
+[203/551] Checking: Мира - Цепката ... OK
+[204/551] Checking: Радо Шишарката - Тигре тигре ... OK
+[205/551] Checking: Радо Шишарката - Курви сбогом ... OK
+[206/551] Checking: Недялко Лазаров - Обре Недялко ... OK
+[207/551] Checking: Симпатяги - За милиони няма закони ... OK
+[208/551] Checking: Глория - Скъпи купи ми нещо ... OK
+[209/551] Checking: Братя Кулинови - Тирбушона ... OK
+[210/551] Checking: Руси Русев - На бургаската гара ... OK
+[211/551] Checking: Братя Кулинови - Шкембето ... OK
+[212/551] Checking: Братя Кулинови - Боц-Маан ... OK
+[213/551] Checking: Орк. Аполон - Бай Иван ... OK
+[214/551] Checking: Росица Пейчева - Дай ми тате малко парички ... OK
+[215/551] Checking: Кали - Наща система 4 4 2 ... OK
+[216/551] Checking: Валдес - Рибна Фиеста ... OK
+[217/551] Checking: Нелина - Бял Мерцедес ... OK
+[218/551] Checking: Сашо Роман - 7 дена 7 нощи ... OK
+[219/551] Checking: Милко Калайджиев - Къде си, батко ... OK
+[220/551] Checking: Луна - Тук там, тук там ... OK
+[221/551] Checking: Фанча - Завърти Го Де ... INVALID (age-restricted)
+[221/551] Searching replacement for: Фанча - Завърти Го Де ... NOT FOUND - commenting out
+[222/551] Checking: LOLUGI - Сандокан ... OK
+[223/551] Checking: Руслан - Горе на черешата ... OK
+[224/551] Checking: Мира и Милко Каладжиев - Хей Малката ... OK
+[225/551] Checking: Кати - Пеперуда ... OK
+[226/551] Checking: Ивана - Смукача ... OK
+[227/551] Checking: Глория - Ледена кралица ... OK
+[228/551] Checking: Кати - Гот е ... OK
+[229/551] Checking: Наско Ментата - Елена Елена ... OK
+[230/551] Checking: Тони Дачева и Орк Кристал - Каравана Чайка ... OK
+[231/551] Checking: Валдес - Рибна Фиеста ... OK
+[232/551] Checking: Джаго - Прошка няма ... OK
+[233/551] Checking: Галин - Селската баня ... OK
+[234/551] Checking: Орк. Тръстеник - Гумена палатка ... OK
+[235/551] Checking: Кондьо - Доко Доко ... OK
+[236/551] Checking: Орк. Плам - Майка ти да еба стояне ... INVALID (age-restricted)
+[236/551] Searching replacement for: Орк. Плам - Майка ти да еба стояне ... FOUND (score=0.69) -> https://www.youtube.com/watch?v=v-vLKk1g86Q
+[237/551] Checking: Амет - Белгийски Вечери (live) ... OK
+[238/551] Checking: Марко и Снежина - Бинго ... OK
+[239/551] Checking: Сашка Васева - Левовете в марки ... OK
+[240/551] Checking: Valio Toploto & Ico Tigara - Burgudjiyska stapka ... OK
+[241/551] Checking: Ork. Favorit - Jelezari ... OK
+[242/551] Checking: АЗИС - сен тропе ... OK
+[243/551] Checking: Florin Salam - Saint Tropez ... OK
+[244/551] Checking: Πάνος Κιάμος - Φωτιά με φωτιά ... OK
+[245/551] Checking: Enka - Alayına Zam ... OK
+[246/551] Checking: Брат Мечо - Исус Христос е Светлина ... OK
+[247/551] Checking: Ork. Favorit - Slunchev Brqg Varna ... OK
+[248/551] Checking: Мебели Виденов КЮЧЕК ... OK
+[249/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - Novo AZIS GROUP Razbivaciq KUCHEKA NA MALKATA VESA Яка разбивация Кючека на Малката Веса ... OK
+[250/551] Checking: BEBA X MANDO - BESEN KUCHEK БЕБА х МАНДО БЕСЕН КЮЧЕК ... OK
+[251/551] Checking: ALEX TOPLOTO & MONKEY - MAZEN KUCHEK, 2025 Алекс Топлото & Мънки Мазен Кючек, 2025 ... OK
+[252/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - NOVO Azis Group Za Shefkata na Botevgrad Кючека за Шефката на Ботевград Азис груп ... OK
+[253/551] Checking: DJ GyUrHan ShAmPiOnA 2019 - Извинявам се кючек 2019 ... OK
+[254/551] Checking: DJ Krisi - Leo band 2025 originalen hit kuchek Лео бенд Кюстендилски кючек ... OK
+[255/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - ZDRAV KUCHEK GUM TEK ... OK
+[256/551] Checking: *Летен Кючек MIX* Toni Storaro ft. Azis ft. Robby's ft. Brandy - Bai Vulcho Club Remix ... OK
+[257/551] Checking: Oktay Studio - ОРК УНИВЕРСИУМ И ВАЛЙО ТОПЛОТО ЛИВЕ ВЕТОВО ... OK
+[258/551] Checking: Zerd - Svatbarski kuchek Сватбарски кючек ... OK
+[259/551] Checking: Tuncay Official - NEW! 2ka Kuchek za Dushata ☆ Tuni Style ☆ ♫ █▬█ █ ▀█▀ ♫ 2022 HIT #kuchek ... OK
+[260/551] Checking: muzikabezkray - Кючек за душата ... OK
+[261/551] Checking: OLG PRODUCTION - КЮЧЕК ЗА ДУШАТА 2023 KUCHEK ZA DUSHATA 2023 ... OK
+[262/551] Checking: 🤪DJ ALEKSANDAR MIX САМО ЗА ВАС🎥 - КЮЧЕК ЗА ДУШАТА НОВО 2025👋👌👌🎤🎥🎥🎹🎷🎷🎤📽🎞🎥📼🎹🎹🎸🎷🎷📻 ... OK
+[263/551] Checking: Iwoxandru - Кючек за душата 2025 ... OK
+[264/551] Checking: Elena Gocheva - New🔥Кючек за душата 🔥 ... OK
+[265/551] Checking: ОРК. АКТИВ Силви Любенов - орк Актив микс Кючеци за душата 2021г. 0886939513 ... OK
+[266/551] Checking: Aliosha Topic - Кючек за душата ... OK
+[267/551] Checking: ORK CIKITA Topic - Кючек за душата ... OK
+[268/551] Checking: Cvetelina Petrova - "Кючека за душата" 🎵🎶 ... OK
+[269/551] Checking: DJ REZKO - ЛЯТО 2024 КЮЧЕК МИКС ... OK
+[270/551] Checking: DJ System - POP FOLK MIX Началото на 2025 ... OK
+[271/551] Checking: Bai Vulcho - *Летен Retro pop folk mix* Bai Vulcho ... OK
+[272/551] Checking: DJ Damyan x Emanuela - Okadar DJ Дамян и Емануела Окадар Official Video 2024 ... OK
+[273/551] Checking: MixWW - SUMMER KUCHEK MIX 2023 ... OK
+[274/551] Checking: DJ Azko - Retro Pop Folk Mashup Kuchek Mix (REUPLOAD) ... OK
+[275/551] Checking: Gery Nikol - Gotina & Luda Готина и луда [Official 4K Video, 2016] ... OK
+[276/551] Checking: SINAN - BAKMA BANA (Official Music Video) ... OK
+[277/551] Checking: rosen tehnika - NEW! ПОКЕМОНИ Кючек ReMix 2016 █▬█ █ ▀█▀ ... OK
+[278/551] Checking: Q Video - Роми Играят ЯКО Кючек!!! ... OK
+[279/551] Checking: DJ Damyan x Sofi Marinova - Kapuchina DJ Дамян и Софи Маринова Капучина Official 2025 ... OK
+[280/551] Checking: DJ Damyan x Monkey - Bitcoin kuchek DJ Дамян и Мънки Биткойн кючек Official 2025 ... OK
+[281/551] Checking: Bai Vulcho - retro pop folk MEGA mix ... OK
+[282/551] Checking: DJ EMO - Christmas Pop Folk Mix 2025 ... OK
+[283/551] Checking: CHALGA MIX 2025 - ЧАЛГА МИКС 2025 Fiki, Galena, Desi Slava, Azis ... OK
+[284/551] Checking: CHALGA SUMMER MIX 2025 - ЧАЛГА СЪМЪР МИКС 2025 CHALGA SUMMER PARTY MIX 2025 ... OK
+[285/551] Checking: Wronglen - 1000 pyti kucek 1000 пъти кючек (Originalnata Versia) ... OK
+[286/551] Checking: Ivan Vezenkov - SUMMER CHALGA PARTY MIX Съмър чалга парти микс 2025 ... OK
+[287/551] Checking: Chalga Mix - CHALGA PARTY MIX 2024🎶 ЧАЛГА ПАРТИ МИКС 2024 CHALGA MIX MUSIC ... OK
+[288/551] Checking: Бони Boni - Golden Hit MashUp 2 (Official Video) 4K 2024 ... OK
+[289/551] Checking: Paw Patrol - Theme Song (Bulgarian) ... OK
+[290/551] Checking: ICO TIGARA OFFICIAL - ZAEK kuchek “Shoshai” Velichko Pamukov ... OK
+[291/551] Checking: Влади Марков - Кючек ... OK
+[292/551] Checking: Оркестър Биад - Балкански кючек ... OK
+[293/551] Checking: STUDIO VISION CAREVO 2 - Милчо Къртача Гайда Кючек Monkey&Krum Filipovi Otkachalki 2025 Студио VISION ... OK
+[294/551] Checking: Padare - Kucheka GALABITE KU KU Live 2025 ... OK
+[295/551] Checking: PADARE BABA - GALABCHE KU KU Official Clip 2026 ... OK
+[296/551] Checking: Видео Лазар - Ork Radi Bend & Ivan Peveca 2025 Кючека На Пресинка Ботевград Cover ... OK
+[297/551] Checking: Mladen Band Official•ISBOM MUSIC - MLADEN BAND KYUCHEK HAVASI МЛАДЕН БЕНД КЮЧЕК АВАСЪ ... OK
+[298/551] Checking: poli BG - Когато Грани и приятели танцуват кючек ... OK
+[299/551] Checking: Dj Malincho - Бесен кючек!👻👻 ... OK
+[300/551] Checking: J&H Chalga Djs - Бесен кючек против училищна депресия 2020 Besen kuchek protiv uchilishna depresiq 2020 ... OK
+[301/551] Checking: Dj georgi mix - Бесен кючек🔊🔥 ... OK
+[302/551] Checking: LEO BAND - Kucheka na Beba ( BIG BROTHER ) ... OK
+[303/551] Checking: DJ DAMYAN x BISER KING ft. SANDRITO - БАНКОМАТ КЮЧЕК ... OK
+[304/551] Checking: Чалга Ритъм - CECO BEND & MIMI як кючек барабани ... INVALID (oembed-401)
+[304/551] Searching replacement for: Чалга Ритъм - CECO BEND & MIMI як кючек барабани ... NOT FOUND - commenting out
+[305/551] Checking: SINANyoutube - lud kuchek ... OK
+[306/551] Checking: Чалга Ритъм - Луд Sax Кючек █▬█ █ ▀█▀ ... OK
+[307/551] Checking: MixWW - ЛУД КЮЧЕК МИКС 2021 ... OK
+[308/551] Checking: LUD KUCHEK - INSTRUMENTAL MIX ♫ █▬█ █ ▀█▀♫ Луд кючек ... OK
+[309/551] Checking: AI Music 666 - Кючека Дубай Дубай 2 Кючек ХИТ 2026 ... OK
+[310/551] Checking: Еленa Петровa - Момчета как много играят яка кючек ... OK
+[311/551] Checking: MURDA BOYZ - MAZEN KUCHEK █▬█ █ ▀█▀ МАЗЕН КЮЧЕК 2024 ... OK
+[312/551] Checking: ДжиДжи БиДжи - Кавала кючек (Кавър) ... OK
+[313/551] Checking: Milcho Studio Official 🎥 📸 - Вальо Топлото ОРГАЗЪМ КЮЧЕК 2026 VALIO TOPLOTO ОRGAZYM ... OK
+[314/551] Checking: MixWW - DASKALO KUCHEK MIX 2022 ... OK
+[315/551] Checking: Студио видео Никсан - НАДИГРАВАНЕ НА КЮЧЕК 2025 №1 NIKSAN VIDEO #2026 ... OK
+[316/551] Checking: danchoeriashev - kuchek 2012 kokoshkata ... OK
+[317/551] Checking: STUDIO VISION CAREVO 2 - Кючека на Рицаря Ico Ricarq Ceco Bend new Кючек 2025 Гайда Кючек Ново Паничарево ... OK
+[318/551] Checking: Кючека Преслава Надиграване - Kucheka Preslava Nadigravane ... OK
+[319/551] Checking: Krasen Bonev - Sabota Kyuchek Красен Бонев Събота Кючек (Official 4K Video) 2023* ... OK
+[320/551] Checking: Azis - Mrasnica I Азис Мръсница (Official video 2024) ... OK
+[321/551] Checking: Leo Band - Фитнес Кючек ... OK
+[322/551] Checking: Krasen Bonev - social kuychek Красен Бонев социален кючек (2025) ... OK
+[323/551] Checking: alein ali - Alein ali Доди и Павко Отивам за ягоди кючек 2010 ... OK
+[324/551] Checking: ORK. CHAR - PONEDELNIK ОРК. ЧАР ПОНЕДЕЛНИК [OFFICIAL 4K VIDEO] 2024 ... OK
+[325/551] Checking: Studio Leo Full HD 4K Audio Video Produktion - TOMAS PUMATA 2021 🎷 Golyama Rabota Kuchek 🎷 🎶 New 2021 🎶 ♫ █▬█ █ ▀█▀ ♫ ... OK
+[326/551] Checking: Leo Band - Държавен Кючек ... OK
+[327/551] Checking: Страхил камера ТВ - Страхил как играят кючек работа ... OK
+[328/551] Checking: Чалга Ритъм - Яко Кючек орк. Мишо Бент 0898951839 ... OK
+[329/551] Checking: Nikolay Ivanov - Орк Варненци Кючек Брестак Оризаре. niki71711 ... OK
+[330/551] Checking: Krasimir Dzhanov - DJ KERRY MONKEY KUCHEK RIKO SHOW ... OK
+[331/551] Checking: Jivko Pavlinov - Оркестър Чака Рака Кючек Завърти колана DJ JANSA VERSION ... OK
+[332/551] Checking: xashove - ork.imperiq kazanlashki kuchek 2012 radio xashove ... OK
+[333/551] Checking: Studio Musi - КЮЧЕЦИ НАДИГРАВАНЕ С DJ DAMYAN c.БОГДАНЦИ (NADIGRAVANE KUCHEK DJ DAMYAN) ... OK
+[334/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - Кючека Половин Кларинет Надиграване SURAI GRUP NADIGRAVANE Polovin Klarinet ... OK
+[335/551] Checking: Студио видео Никсан - Mladen peveca kuchek klimatik nadigravane #99 2026 ... OK
+[336/551] Checking: ALPEN MINUNE - NEW MIX KUCHECI 2026 █▬█ █ ▀█▀ #djdjanny ... OK
+[337/551] Checking: Anna Dameran - Chalga Time Анна Дамеран Чалга тайм Official Video 2026 ... OK
+[338/551] Checking: NEW - ★ ЯКО МОЩНА ДЕВЯТКА ЙОНИКА КЮЧЕК ★ 2021 ♫ █▬█ █ ▀█▀♫ ♫ QKO MOSHTNA DEVYATKA KUCHEK ♫ ... OK
+[339/551] Checking: Юлу Матондо - Помпа Кючек (Yulu Matondo Pompa Kuchek Dance) ... OK
+[340/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - QK KUCHEK Olimpia Show Asancho Як Кючек Олимпия Шоу ... OK
+[341/551] Checking: brni petranov - 100% Смях Роналдиньо играе Кючек ... OK
+[342/551] Checking: КЮЧЕКА ЕВРО 2025 - Kuchek Time x Orkestara na Shelkata ... OK
+[343/551] Checking: AES Video & Photography - Майсторски Левски Кючек Maistorski Levski Kuchek 2023 Guner Gurbet ... OK
+[344/551] Checking: █▬█ █ ▀█▀ 2026 Djamala Music - ЛЕВ КЮЧЕК LEV KYUCHEK ☆NEW☆ ... OK
+[345/551] Checking: Слави и Ку Ку Бенд - Пружината (live Арена Армеец) ... OK
+[346/551] Checking: SILVER, MC GREKA, NANI & FANTASY BAND - ЦИТИРИДИС КЮЧЕК, 2023 ... OK
+[347/551] Checking: Слави Трифонов и Ку Ку Бенд - Тайсън Кючек (Tour 2009) ... OK
+[348/551] Checking: Страхил фото видео - Състезание кючек Руен ... OK
+[349/551] Checking: STILIYAN feat. DJOSHKUN - #Zhivotno СТИЛИЯН feat. ДЖОШКУН #Животно (Official Music Video) ... OK
+[350/551] Checking: орк.Козари - Животното кючек 2003 ... OK
+[351/551] Checking: VESSOU - КОЛЕДА КЮЧЕК 2 (OFFICIAL VIDEO) x BLAGOVEST VASILEV ... OK
+[352/551] Checking: Влади Априлов - Кючек (1999) ... OK
+[353/551] Checking: DJ Jivko Mix & Niki - Kucheta * DJ Живко Микс и Ники Кучета Official Video 2025 ... OK
+[354/551] Checking: Видео Лазар - Ork Selfi Grup & Dido 2023 Кючека Поничка 🍩🍩🍩 Cover ... OK
+[355/551] Checking: GENADI PEVECA ''STARIQ KUCHI - DUM LAKE'' ГЕНАДИ ПЕВЕЦА "СТАРИЯ КУЧИ ДУМ ЛАКЕ" (Official Video) ... OK
+[356/551] Checking: ibrahim chavdarov - Куче играе кючек ... OK
+[357/551] Checking: Севгилим Апаз - Храни куче да те лае кючек ... OK
+[358/551] Checking: Severin Stanev - kuchek ot bratovcheda na ramzi ... OK
+[359/551] Checking: ORK. CHAR - SDELKA ILI NE ОРК. ЧАР СДЕЛКА ИЛИ НЕ [OFFICIAL 4K VIDEO] ... OK
+[360/551] Checking: КючециBG - Кокаин Кючек ... OK
+[361/551] Checking: Влади Априлов - Кючек (HQ) ... OK
+[362/551] Checking: █▬█ █ ▀█▀ 2026 Djamala Music - ИВАНОВДЕН КЮЧЕК IVANOVDEN KYUCHEK ☆NEW☆ ... OK
+[363/551] Checking: Студио видео Никсан - Надиграване на кючек #2 2024 Djodji bend Ramzi kuchek (COVER) ... OK
+[364/551] Checking: Studio Todorovi - Ivan Bend & Aleksi Asparuhov 2025 I Кючека на Фидана ... OK
+[365/551] Checking: Alpen Minune - Ork.Romaniei & Deivid 100 RETRO KOCEK (Remix) 2026 ... OK
+[366/551] Checking: Николай Борисов - Zelena salata kuchek ... OK
+[367/551] Checking: ORK SHANS Topic - КЮЧЕК 9 КА 2021 ... OK
+[368/551] Checking: The112361 - кючек салата и ракия ... OK
+[369/551] Checking: NEW! DJAMAIKATA - SLIVENSKI KUCHEK 2020 [Джамайката Сливенски Кючек 2020] ... INVALID (oembed-401)
+[369/551] Searching replacement for: NEW! DJAMAIKATA - SLIVENSKI KUCHEK 2020 [Джамайката Сливенски Кючек 2020] ... FOUND (score=0.53) -> https://www.youtube.com/watch?v=56Z0GhnONbQ
+[370/551] Checking: Ork.Maksim Shen Topic - Avtomat kuchek ... OK
+[371/551] Checking: Teodor Petrov - Squid Game кючек 2021 (много мазно) ... OK
+[372/551] Checking: Ork.TuGi - kucheka mazno 2 ... OK
+[373/551] Checking: Stiliyan_Official & SashaSandra - MAZH STOMANA Мъж стомана (Official Music Video) ... OK
+[374/551] Checking: Ork.Shabla Topic - Kuchek Coroba ... OK
+[375/551] Checking: СУПЕР МАЗЕН КЮЧЕК - RAGGA KUCHEK NEMOA SE ZAPRA , AMET , MILIONERCHE REMIX MAZEN KUCHEK ... INVALID (oembed-401)
+[375/551] Searching replacement for: СУПЕР МАЗЕН КЮЧЕК - RAGGA KUCHEK NEMOA SE ZAPRA , AMET , MILIONERCHE REMIX MAZEN KUCHEK ... NOT FOUND - commenting out
+[376/551] Checking: 2026 LUBO MALAKOV - BURGODJIISKIQT KUCHEK ЛЮБО МАЛАКОВ БУРГОДЖИЙСКИЯТ КЮЧЕК ... OK
+[377/551] Checking: _𝐒𝐭𝐨𝐪𝐧..𝟓𝟓𝟓_ - Кючека мръсницо, моя & Mrusnico moq & _𝐒𝐭𝐨𝐪𝐧..𝟓𝟓𝟓_ ... OK
+[378/551] Checking: user733 - Дани Папазов Кючек (Official Audio) ... OK
+[379/551] Checking: DJ Damyan x ork. Salih Hamburg - 1 Milion DJ Дамян и орк. Салих Хамбург 1 Милион Official 2024 ... OK
+[380/551] Checking: stoxxata - КОКА КОЛА КЮЧЕК ... OK
+[381/551] Checking: Marin Marinov - Оркестър Прима Кока кола кючек ... OK
+[382/551] Checking: KRISANDI - BALENCIAGA KUCHEK (Official Video) ... OK
+[383/551] Checking: Raina Asenova - Бърз кючек..... ... OK
+[384/551] Checking: Denislav Dimitrov - Extended! Дубай кючек by Dj Spirit & Dj Damian ... OK
+[385/551] Checking: julien kobrata - kuchek za vsichki tarikati ... OK
+[386/551] Checking: RIstem Familiq - Ristem i Familiq 2025 ENGLISH TALLAVA HIT Za Jevo Mashinata ... OK
+[387/551] Checking: RIstem Familiq - РИСТЕМ 2026 КЮЧЕКА ЧОК ЗА ИСУС МАШИНАТА ... OK
+[388/551] Checking: Balkan Music - Сливенска Долама (Кючек 2020) ... OK
+[389/551] Checking: TONI & PETAR RANGELOV - G Class 2020 ( Cover ) ( BOSHKOMIX ) ... OK
+[390/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - ROKSANA NOVO QK KIUCHEK SHOW BELGIA GENT НОВО РОКСАНА ЯК КЮЧЕК ШОУ БЕЛГИЯ ГЕНT ... OK
+[391/551] Checking: SHOW KUCHEK - BILQNA & ork. Surai Group ШОУ КЮЧЕК БИЛЯНА И орк.СУРАЙ ГРУП ... OK
+[392/551] Checking: Тони Валята (СТУДИО ВАЛЯТА) - Кючека на Близначките 2026 Яко ork. Intriga ... OK
+[393/551] Checking: KRISKO & GALENA - KAVALA KUCHEK (Official Video) ... OK
+[394/551] Checking: ANGEL FEAT. JAMAYKATA - ZHIVEE MI SE АНГЕЛ FEAT. ДЖАМАЙКАТА Живее ми се (Official Music Video) ... INVALID (age-restricted)
+[394/551] Searching replacement for: ANGEL FEAT. JAMAYKATA - ZHIVEE MI SE АНГЕЛ FEAT. ДЖАМАЙКАТА Живее ми се (Official Music Video) ... FOUND (score=0.66) -> https://www.youtube.com/watch?v=iHGDJ3DLwS4
+[395/551] Checking: Dj VLADKO MIX IVANOV - NEW KUCHEK DABES & MOMICHETA OT TIK TOK 2023 REMIX*( DJ VLADKO MIX Remix Extended) ... OK
+[396/551] Checking: симона симеонова - Момиче играе Яко кючек соло барабани ... OK
+[397/551] Checking: kobrata15 - Malko momiche igrae kuchek ... OK
+[398/551] Checking: Страхил камера ТВ - Момичета как играят кючек от село в Стралджа ... OK
+[399/551] Checking: Ork Experia - Levchenski Originalen Kuchek Live 2024 ... OK
+[400/551] Checking: MECHKA KUCHEK - Ork Experia Live 2026 ... OK
+[401/551] Checking: BG MUSİC CHANNEL - Kuchek Burguciyski. Yonika Kuchek. ... OK
+[402/551] Checking: ORK.UNIVERSUM - IVANOVIQ KUCHEK, 2026 Орк.Универсум Ивановия Кючек, 2026 ... OK
+[403/551] Checking: StUdiO DiMitRoV - Ork.Diamanti kucheka pastichka 2018 NEW ... OK
+[404/551] Checking: Петър Любчев и Панайот Стойчев - Еркечки кючек ... OK
+[405/551] Checking: Studio Americano - Mix Kucheci Pepi Rangelov Машината и Ork. Matricata Alpen Minune ... OK
+[406/551] Checking: Панаги груп - "Ънтурбат (Откачен) кючек" 2023 ... OK
+[407/551] Checking: Rosen Martinov - Орлин памуков Майстора на всички времена Ретро Бургоджйски кючек. 2023 ... OK
+[408/551] Checking: Румен И Пауталия - Апогей Кючек ... OK
+[409/551] Checking: Пианист Ерсан ( PİYANİST ERSAN ) - ЕРСАН ШЕРИФ 3 Да България Търси Талант 2022 ( BULGARİA GOT TALENT ) #piyanistersan #music #кючек ... OK
+[410/551] Checking: STEFCHO BAND & Timcho Turboto - KUCHEK GRUPA KESH 2025 HIT Стефчо Бенд Кючек за Група Кеш 2025 ... OK
+[411/551] Checking: Lakosta Band - Kuchek Klavir Aga ... OK
+[412/551] Checking: Leo Band - Ивка Бейбе КЮЧЕК ... OK
+[413/551] Checking: GAMZATA & KU KU BAND - PRUJINATA KUCHEK 2016 Гъмзата и Ку Ку бенд Пружината Кючек 2016 ... OK
+[414/551] Checking: LEO BAND - Cuba Libre kuchek Live ( STUDIO BOSHKOMIX ) ... OK
+[415/551] Checking: ДЖОРДАН x НЕЛИНА - Бял Мерцедес (Уникален Дует ALØX Remix 2026) ... OK
+[416/551] Checking: Milcho Studio Official 🎥 📸 - LEO BAND Grupa kesch Kucheka lesh 💶💸Лео бенд Група кеш Кючека леш ... OK
+[417/551] Checking: BORIL ILIEV ft. FANTASY BAND - KUCHEK ... OK
+[418/551] Checking: _𝐒𝐭𝐨𝐪𝐧..𝟓𝟓𝟓_ - Ivan Peveca & По полека, бейби със кючека Po poleka beibi s kucheka & _Stoqn..555_ ... OK
+[419/551] Checking: Ork Karandila - Kiuchek ABC Орк. Карандила Кючек АБЦ ... OK
+[420/551] Checking: Илиян Йосифов - Орк.Вип и Петко Кючек 2019 ... OK
+[421/551] Checking: S2P BG - Зайченцето Бяло Орк. Шумна Джунгла ft. Азислава (Кючек 2025) ... OK
+[422/551] Checking: Ретро Чалга - Щилиян и оркестър Китка Секси 1997 ... OK
+[423/551] Checking: Трио Здравец Topic - Варненски кючек ... OK
+[424/551] Checking: Муси - Орловец Импровизация Кючек Musi orlovec Kuchek ... OK
+[425/551] Checking: Слави Трифонов - Кючек Асорти (Slavi Trifonov Kucek Asorty) ... OK
+[426/551] Checking: Balkan Music - NEW! KLARINET KUCHEK 2021 (Кючек 2021) ... OK
+[427/551] Checking: Румен Русков - Калаѝджѝски кючек ... OK
+[428/551] Checking: BEKITO - Ретро Гайда Кючек BEKITO ... OK
+[429/551] Checking: V Production - V Dalaverata & Priyateli Kucheka na Trumpista V Production █▬█ █ ▀█▀ ... INVALID (oembed-401)
+[429/551] Searching replacement for: V Production - V Dalaverata & Priyateli Kucheka na Trumpista V Production █▬█ █ ▀█▀ ... NOT FOUND - commenting out
+[430/551] Checking: Оркестър Бриз - Оркестър Бриз Кючек Ду далла 2016 ... OK
+[431/551] Checking: NEW Асанчо - Кючека ДАЛАВЕРА 2013 NEW ... OK
+[432/551] Checking: Джамайката - Лихварски Кючек ... OK
+[433/551] Checking: V Production - V Dalaverata & Bobi Tigara Shofiorski Kuchek Kabadan 2020 V Production █▬█ █ ▀█▀ ... INVALID (oembed-401)
+[433/551] Searching replacement for: V Production - V Dalaverata & Bobi Tigara Shofiorski Kuchek Kabadan 2020 V Production █▬█ █ ▀█▀ ... NOT FOUND - commenting out
+[434/551] Checking: Evropa Group - Taka dobre li e? Европа Груп Така добре ли е? (Official Video) 2025 ... OK
+[435/551] Checking: BV RECORDS - VASKO DALAVERATA x VASKO PURKO DALAVERA KUCHEK Васко Далаверата и Васко Пурко Далавера кючек, 2022 ... OK
+[436/551] Checking: Denislav - Duner kuchek + DOWNLOAD LINK ... OK
+[437/551] Checking: Ork Fakulteta - Kuchek S8 ... OK
+[438/551] Checking: BOGI AI MIx - Kuchek Kardarashka sreshta 2026 ... OK
+[439/551] Checking: AZIS - SEN TROPE АЗИС Сен Тропе (Official Music Video) ... OK
+[440/551] Checking: TANEFF - SEN TROPE & DUBAI KUCHEK MIX (TANEFF MIX) ... OK
+[441/551] Checking: TARKAN - Dudu (Official Music Video) ... OK
+[442/551] Checking: Меди LIVE MIX - Сен Тропе, кючеци (Пружината, Нирвана кючек) ... OK
+[443/551] Checking: AZIS - HAYDE NA MORETO АЗИС Хайде на морето [Official Visualizer] ... OK
+[444/551] Checking: AZIS - SEN TROPE АЗИС Сен Тропе [Official Visualizer] ... OK
+[445/551] Checking: TSVETELINA YANEVA x AZIS - HAVTE Цветелина Янева х Азис Хавте Official music video 2026 ... OK
+[446/551] Checking: Sen Trope - AZIS & Iam Lumoss ' TikTok ' Remix 2024 ... OK
+[447/551] Checking: CVETELINA YANEVA & IONUT CERCEL - VLEZ ZEG OFFICIAL VIDEO HD produced by COSTI ... OK
+[448/551] Checking: Silva Gunbardhi ft. Mandi ft. Dafi Derti - Te ka lali shpirt (Official Video HD) ... OK
+[449/551] Checking: Оркестър Бриз - Оркестър Бриз и Наско Ментата Молитва 2016 ... OK
+[450/551] Checking: georev - Кючек Женска молитва ... OK
+[451/551] Checking: ORK. ORHIDEI - VOLGATA ОРК. ОРХИДЕИ ВОЛГАТА [OFFICIAL VIDEO] ... OK
+[452/551] Checking: Альоша & Георги Георгиев - Народен Кючек Aliosha & Georgi Georgiev Naroden Kiuchek ... OK
+[453/551] Checking: █▬█ █ ▀█▀ 2026 Djamala Music - Киро Брейка КЮЧЕК Kiro Breika KYUCHEK ☆NEW☆ ... OK
+[454/551] Checking: █▬█ █ ▀█▀ 2026 Djamala Music - Румен Радев КЮЧЕК Rumen Radev KYUCHEK ☆NEW☆ ... OK
+[455/551] Checking: Yanitsa Topic - Kyuchek Leko ... OK
+[456/551] Checking: Danailov Sound Official - Tuba Brass Bend ''Golqmata ekskurziq'' ТУБА БРАС БЕНД ''ГОЛЯМАТА ЕКСКУРЗИЯ (Official Video) 2022 ... OK
+[457/551] Checking: BG_MÜZIK ROMAN HAVASI - Kuchek Rotterdam Live 2026 ... OK
+[458/551] Checking: Menko & Иван Градушката - почивка кючек ... OK
+[459/551] Checking: Чалга Ритъм - КЮЧЕКА НА СЛАВИ 2 и Иван Градушката ... OK
+[460/551] Checking: Иван Градушката - гайда кючек ... OK
+[461/551] Checking: ALIOSHA & ORK. TANGRA FOLK - MIX KUCHEK ... OK
+[462/551] Checking: EMRAH ft. GALENA ft. ork. CHAR - ERGENAT ЕМРАХ ft. ГАЛЕНА ft. орк. ЧАР ЕРГЕНЪТ [OFFICIAL VIDEO] ... OK
+[463/551] Checking: ERCAN AHATLI - BaLKaN Style “CHeRNo MoRe KuCHeK Mix🎶🎬 ERCAN AHATLI🎶 Най Лудия Кючек 🎬 ... OK
+[464/551] Checking: Оркестър Бриз и Наско Ментата - ""Капитански кючек "" 2017 ... OK
+[465/551] Checking: Remix BG - Мебели Виденов КЮЧЕК Mebeli Videnov KUCHEK ... OK
+[466/551] Checking: Balkan Music - НОВО КЮЧЕК ВЛАКА ИДЕ (Кючек 2018) ... OK
+[467/551] Checking: Иван Дончов - Кючек 2025 kucek 2025 ... OK
+[468/551] Checking: Mato Memish - Ork. Mato Memish Dobrich Kaba Kuchek (Dolama) ... OK
+[469/551] Checking: Иван Градушката, Боян Боянов и Krum - Гайда Кючек ... OK
+[470/551] Checking: sero prada - kuchek dom dom ... OK
+[471/551] Checking: Roma Tv - ork popeler dum tek 2023 hit kuchek ... OK
+[472/551] Checking: ignasio antonov - Ork.Kamenci Live kuchek by ignasio antonov ... OK
+[473/551] Checking: Кючеци - Комшийката от втория етаж Кючек Комшийката Кючеци https youtu.be EuX18Q1tFho ... OK
+[474/551] Checking: Frank Costello - Kuchek Dale ... OK
+[475/551] Checking: имен ден - Георги ... OK
+[476/551] Checking: имен ден - Димитър ... OK
+[477/551] Checking: имен ден - Иван ... OK
+[478/551] Checking: имен ден - Николай ... OK
+[479/551] Checking: имен ден - Петър ... OK
+[480/551] Checking: имен ден - Христо ... OK
+[481/551] Checking: имен ден - Александър ... OK
+[482/551] Checking: имен ден - Стефан ... OK
+[483/551] Checking: имен ден - Йордан ... OK
+[484/551] Checking: имен ден - Тодор ... OK
+[485/551] Checking: имен ден - Васил ... OK
+[486/551] Checking: имен ден - Атанас ... OK
+[487/551] Checking: имен ден - Борис ... OK
+[488/551] Checking: имен ден - Калоян ... OK
+[489/551] Checking: имен ден - Красимир ... OK
+[490/551] Checking: имен ден - Любомир ... OK
+[491/551] Checking: имен ден - Мартин ... OK
+[492/551] Checking: имен ден - Даниел ... OK
+[493/551] Checking: имен ден - Виктор ... OK
+[494/551] Checking: имен ден - Пламен ... OK
+[495/551] Checking: имен ден - Илия ... OK
+[496/551] Checking: имен ден - Ангел ... OK
+[497/551] Checking: имен ден - Павел ... OK
+[498/551] Checking: имен ден - Емил ... OK
+[499/551] Checking: имен ден - Румен ... OK
+[500/551] Checking: имен ден - Теодор ... OK
+[501/551] Checking: имен ден - Валентин ... OK
+[502/551] Checking: имен ден - Костадин ... OK
+[503/551] Checking: имен ден - Добромир ... OK
+[504/551] Checking: имен ден - Мария ... OK
+[505/551] Checking: имен ден - Елена ... OK
+[506/551] Checking: имен ден - Иванка ... OK
+[507/551] Checking: имен ден - Йорданка ... OK
+[508/551] Checking: имен ден - Гергана ... OK
+[509/551] Checking: имен ден - Десислава ... OK
+[510/551] Checking: имен ден - Теодора ... OK
+[511/551] Checking: имен ден - Петя ... OK
+[512/551] Checking: имен ден - Антония ... OK
+[513/551] Checking: имен ден - Виктория ... OK
+[514/551] Checking: имен ден - Габриела ... OK
+[515/551] Checking: имен ден - Никол ... OK
+[516/551] Checking: имен ден - Стефка ... OK
+[517/551] Checking: имен ден - Виолета ... OK
+[518/551] Checking: имен ден - Цветелина ... OK
+[519/551] Checking: имен ден - Цветана ... OK
+[520/551] Checking: имен ден - Росица ... OK
+[521/551] Checking: имен ден - Радка ... OK
+[522/551] Checking: имен ден - Зорница ... OK
+[523/551] Checking: имен ден - Лилия ... OK
+[524/551] Checking: имен ден - Надежда ... OK
+[525/551] Checking: имен ден - Татяна ... OK
+[526/551] Checking: имен ден - Даниела ... OK
+[527/551] Checking: имен ден - Силвия ... OK
+[528/551] Checking: имен ден - Милена ... OK
+[529/551] Checking: имен ден - Кристина ... OK
+[530/551] Checking: Bakhtalo Guaril - NEW!!! KUCHEKA HAPPY BIRTHDAY КЮЧЕКА ЧЕСТИТ РОЖДЕН ДЕН ... OK
+[531/551] Checking: ORK. CHAR - HAPPY BIRTHDAY ОРК. ЧАР ЧЕСТИТ РОЖДЕН ДЕН [OFFICIAL 4K VIDEO] ... OK
+[532/551] Checking: Happy Birthday Songs by I Wish You - Happy Birthday To You Song Remix 🎂🎉 ... OK
+[533/551] Checking: Happy Birthday Songs by I Wish You - Cutest Happy Birthday Song 🩷 ... OK
+[534/551] Checking: ILIYAN - CHESTIT ROJDEN DEN KUCHEK 2020 (Live) ИЛИЯН ЧЕСТИТ РОЖДЕН ДЕН КЮЧЕК (Live)★ █▬█ █ ▀█▀ ★ ... OK
+[535/551] Checking: Bakhtalo Guaril - Happy birthday KUCHEK Честит рожден ден кючек ... OK
+[536/551] Checking: S2P BG - Честит Рожден Ден Орк. Шумна Джунгла (Кючек 2025) ... OK
+[537/551] Checking: Рико Бенд - Рожденика Riko Band Rozhdenika ... OK
+[538/551] Checking: VESELIN MARINOV - ROZHDEN DEN Веселин Маринов Рожден ден, live 2016 ... OK
+[539/551] Checking: Happy Birthday - Happy Birthday To You Song Remix DJ ... OK
+[540/551] Checking: NEW - ★ ЯКО МОЩНА ГАЙДА КЮЧЕК 2021 ★ ♫ █▬█ █ ▀█▀♫ ★ ♫ QKO MOSHTNA GAIDA KUCHEK ♫ ... OK
+[541/551] Checking: DJENA - IMA LI ROZHDENIK Джена Има ли рожденик Official video 2023 ... OK
+[542/551] Checking: KUCHEK TV - █▬█ █ ▀█▀ Happy Birthday To You (Kucheka Konq Vihur 2021 !REMIX ) ... OK
+[543/551] Checking: Mladen Band Official•ISBOM MUSIC - MLADEN BAND HAPPY BIRTHDAY МЛАДЕН БЕНД ЧЕСТИТ РОЖДЕН ДЕН🎊🎉 ... OK
+[544/551] Checking: TataieNr1 V2 - ✅ LEO DE LA KUWEIT ✅ PERLA PRETIOASA ✅ [ REMIX ] !! ... OK
+[545/551] Checking: Mara STEFANIA - 🥳 Ziua Mea ❗️ Happy Birthday 🎉 La mulți ani, BRI❗️ (Official Video) ... OK
+[546/551] Checking: Costel Biju , Leo de la Kuweit & Marinica Namol - Happy birthday Official Video ... OK
+[547/551] Checking: Florin Cercel - La multi ani (Official Video) Manele TV ... OK
+[548/551] Checking: Happy Birthday - Manele ... OK
+[549/551] Checking: Jador - E Ziua Mea 🎉 (Official Video) ... OK
 Validation complete
 Input:  /Users/klatibook/git/stremio-kyuchek/kyuchek.expanded.yaml
 Output: /Users/klatibook/git/stremio-kyuchek/kyuchek.expanded.valid.yaml
-Total videos checked: 547
-Kept: 547
-Replaced: 0
-Dropped: 0
+Total videos checked: 549
+Kept: 536
+Replaced: 6
+Dropped: 7
 Dropped non-YouTube: 0
 Comments preserved: 0
 
